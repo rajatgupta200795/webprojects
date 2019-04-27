@@ -27,13 +27,6 @@ else
  <html>
        <head>
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-7854134265536195",
-    enable_page_level_ads: true
-  });
-</script>
 
 
 <meta name="google-site-verification" content="OVFWaU62XlBmPDpNGfkdLQhTVZX4DgC1O9RTiJmyTn8" />
@@ -220,7 +213,7 @@ echo'</div>
 <div class="col-sm-8">
 
 <div class="row">
-<div class="col-sm-7"><h1>naiudan.com</h1>';
+<div class="col-sm-7"><h1>devopsrider.com</h1>';
 
 
 echo'</div>
