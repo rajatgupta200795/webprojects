@@ -224,8 +224,8 @@ echo'</div>
 
 
 echo'</div>
-<div class="col-sm-2"  > <a href="http://www.naiudan.com/lovegame/"><div style="margin-top:10px; font-size:17px;font-weight:bold;">Play Game</div></a></div>
-<div class="col-sm-2"  > <a href="http://www.naiudan.com/current-indian-polity/general-science.php"><div style="margin-top:10px; font-size:17px;font-weight:bold; ">Current Indian Polity</div></a></div>
+<div class="col-sm-2"  > <a href="/lovegame/"><div style="margin-top:10px; font-size:17px;font-weight:bold;">Play Game</div></a></div>
+<div class="col-sm-2"  > <a href="/current-indian-polity/general-science.php"><div style="margin-top:10px; font-size:17px;font-weight:bold; ">Current Indian Polity</div></a></div>
 <div class="col-sm-3" style="margin-top:0px; font-size:10px;"><a href="https://www.facebook.com/Technical-Friend-741984279311981/"> Like Our Facebook Page</a> <div class="fb-like" data-href="https://www.facebook.com/Technical-Friend-741984279311981/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div></div>
 </div>';
 echo'
@@ -250,8 +250,8 @@ echo'</div>
 <div class="row">
 <div class="col-sm-12" style="color:lightgrey; margin-left:-4px; padding-bottom:1px;  padding-left:20px; border-bottom : 1px solid lightgrey; padding-top:1px; font-size:12px; background-color: #448aff;">
 <span style="margin-left:0px;padding-bottom:1px; padding-top:1px; font-size:12px; background-color: #448aff;">
-<a href="http://www.naiudan.com/link_click_counter/" style="color: white;" >Click Optimizer</a> &nbsp; | &nbsp; 
-<a href="http://www.naiudan.com/current-indian-polity/general-science.php" style="color:white;">Current Indian Polity</a> &nbsp;|&nbsp; 
+<a href="/link_click_counter/" style="color: white;" >Click Optimizer</a> &nbsp; | &nbsp; 
+<a href="/current-indian-polity/general-science.php" style="color:white;">Current Indian Polity</a> &nbsp;|&nbsp; 
 <a href="../n/lovegame/" style="color:white;">Love Game</a> &nbsp;|&nbsp; 
 <a href="https://www.facebook.com/Technical-Friend-741984279311981/" style="padding:4px; color: white;" >Like Our Facebook Page</a><div class="fb-like" data-href="https://www.facebook.com/Technical-Friend-741984279311981/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
 
@@ -263,7 +263,7 @@ echo'</div>
 <div class="col-sm-2" style="font-size:30px; font-family:serif; line-height:20px;">
 
 <b style="color:black; margin-top:5px;">Nai Udan</b></br>
-<a href="http://www.naiudan.com" style="font-size:16px; color:black; top:0px;">www.naiudan.com</a>
+<a href="" style="font-size:16px; color:black; top:0px;">www.naiudan.com</a>
 ';
 
 echo'</div>
@@ -287,26 +287,26 @@ echo'
 
 echo'<div style="height:10px;"></div>';
 
-echo'<ul style="margin-left:150px;"><li><a href="http://www.naiudan.com/index.php"><span style="padding:7px; padding-left:25px; padding-right:15px; font-size:15px; color:white; font-weight:bold; background-color: #4682B4;" onmouseover="this.style.background=\'#f0f0f0\'; this.style.color=\'black\'; this.style.decoration=\'none\';" onmouseout="this.style.background=\'#4682B4\'; this.style.color=\'white\';" ><span class="glyphicon glyphicon-home"></span></span></a></li><li><a href="http://www.naiudan.com/current_affairs.php"><span style="padding:7px;padding-left:8px; padding-right:8px;font-size:15px; color:white; font-weight:bold; background-color: #4682B4;" onmouseover="this.style.background=\'#f0f0f0\'; this.style.color=\'black\'; this.style.decoration=\'none\';" onmouseout="this.style.background=\'#4682B4\'; this.style.color=\'white\';" >Current Affairs</span></a></li><li><a href="http://www.naiudan.com/technology.php"><span style="padding:7px;padding-left:13px; padding-right:13px; font-size:15px; color:white; font-weight:bold; background-color: #4682B4;" onmouseover="this.style.background=\'#f0f0f0\'; this.style.color=\'black\'; this.style.decoration=\'none\';" onmouseout="this.style.background=\'#4682B4\'; this.style.color=\'white\';" >Technology</span></a><ul class="dropdown">
+echo'<ul style="margin-left:150px;"><li><a href="/index.php"><span style="padding:7px; padding-left:25px; padding-right:15px; font-size:15px; color:white; font-weight:bold; background-color: #4682B4;" onmouseover="this.style.background=\'#f0f0f0\'; this.style.color=\'black\'; this.style.decoration=\'none\';" onmouseout="this.style.background=\'#4682B4\'; this.style.color=\'white\';" ><span class="glyphicon glyphicon-home"></span></span></a></li><li><a href="/current_affairs.php"><span style="padding:7px;padding-left:8px; padding-right:8px;font-size:15px; color:white; font-weight:bold; background-color: #4682B4;" onmouseover="this.style.background=\'#f0f0f0\'; this.style.color=\'black\'; this.style.decoration=\'none\';" onmouseout="this.style.background=\'#4682B4\'; this.style.color=\'white\';" >Current Affairs</span></a></li><li><a href="/technology.php"><span style="padding:7px;padding-left:13px; padding-right:13px; font-size:15px; color:white; font-weight:bold; background-color: #4682B4;" onmouseover="this.style.background=\'#f0f0f0\'; this.style.color=\'black\'; this.style.decoration=\'none\';" onmouseout="this.style.background=\'#4682B4\'; this.style.color=\'white\';" >Technology</span></a><ul class="dropdown">
 <center style="color:black; font-weight:bold;font-size:20px;">Technology - Free Software , Services & Tricks</center><hr>
 <div class="row"><div class="col-sm-5">
-<li><a href="http://www.naiudan.com/technology.php?page=free_download_internet_download_manager&link_title=INTERNET%20DOWNLOAD%20MANAGER%20-%20SETUP%20+%20UNLIMITED%20CRACK%20+%20KEYS%20-%20FREE%20DOWNLOAD&meta_description=Internet%20Download%20Manager%20is%20a%20task%20management%20tool%20that%20makes%20it%20easier%20to%20download%20multiple%20files%20at%20a%20time.%20Internet%20Download%20Manager,%20free%20and%20safe%20download,Setup,Crack%20Download%20logic%20accelerator,resume%20and%20schedule%20downloads...."><span>Internet Download Manager</span></a></li>
-<li><a href="http://www.naiudan.com/technology.php?page=how-to-get-password-of-any-wifi-leegaly-without-any-software-download&link_title=How%20To%20Get%20Any%20wifi%20Password%20Near%20Your%20Location%20Easily%20-%20www.myxid.com&meta_description=I%20am%20sure%20you%20got%20nothing%20after%20a%20lots%20of%20search%20everywhere.Today%20i\%27ll%20show%20you%20how%20you%20can%20find%20someone\%27s%20wifi%20password%20(anywhere%20in%20the%20world)%20without%20doing%20any%20illegal%20work."><span>Get Any wifi Password ?</span></a></li>
-<li><a href="http://www.naiudan.com/technology.php?page=revo_uninstaller&link_title=REVO%20UNINSTALLER%20:%20SET%20UP%20+%20UNRECOVERABLE%20DELETE%20TOOL%20+%20EVIDENCE%20REMOVER%20+%20WINDOWS%20HISTORY%20CLEANER%20+%20%20FREE%20DOWNLOAD%20REVO%20UNINSTALLER%20&meta_description=Revo%20Uninstaller%20helps%20you%20to%20uninstall%20software%20and%20remove%20unwanted%20programs%20installed%20on%20your%20computer%20even%20if%20you%20have%20problems%20uninstalling%20and%20cannot%20uninstall%20them%20from"><span>Enjoy Free Software For Lifetime</span></a></li>
+<li><a href="/technology.php?page=free_download_internet_download_manager&link_title=INTERNET%20DOWNLOAD%20MANAGER%20-%20SETUP%20+%20UNLIMITED%20CRACK%20+%20KEYS%20-%20FREE%20DOWNLOAD&meta_description=Internet%20Download%20Manager%20is%20a%20task%20management%20tool%20that%20makes%20it%20easier%20to%20download%20multiple%20files%20at%20a%20time.%20Internet%20Download%20Manager,%20free%20and%20safe%20download,Setup,Crack%20Download%20logic%20accelerator,resume%20and%20schedule%20downloads...."><span>Internet Download Manager</span></a></li>
+<li><a href="/technology.php?page=how-to-get-password-of-any-wifi-leegaly-without-any-software-download&link_title=How%20To%20Get%20Any%20wifi%20Password%20Near%20Your%20Location%20Easily%20-%20www.myxid.com&meta_description=I%20am%20sure%20you%20got%20nothing%20after%20a%20lots%20of%20search%20everywhere.Today%20i\%27ll%20show%20you%20how%20you%20can%20find%20someone\%27s%20wifi%20password%20(anywhere%20in%20the%20world)%20without%20doing%20any%20illegal%20work."><span>Get Any wifi Password ?</span></a></li>
+<li><a href="/technology.php?page=revo_uninstaller&link_title=REVO%20UNINSTALLER%20:%20SET%20UP%20+%20UNRECOVERABLE%20DELETE%20TOOL%20+%20EVIDENCE%20REMOVER%20+%20WINDOWS%20HISTORY%20CLEANER%20+%20%20FREE%20DOWNLOAD%20REVO%20UNINSTALLER%20&meta_description=Revo%20Uninstaller%20helps%20you%20to%20uninstall%20software%20and%20remove%20unwanted%20programs%20installed%20on%20your%20computer%20even%20if%20you%20have%20problems%20uninstalling%20and%20cannot%20uninstall%20them%20from"><span>Enjoy Free Software For Lifetime</span></a></li>
 </div>
 <div class="col-sm-5">
-<li><a href="http://www.naiudan.com/link_click_counter/"><span>Count Your Web Address Click</span></a></li>
+<li><a href="/link_click_counter/"><span>Count Your Web Address Click</span></a></li>
 </div>
 </div>
 <hr>
 <b>To be updated with latest technology and tricks , Like our Facebook Page. <div class="fb-like" data-href="https://www.facebook.com/Technical-Friend-741984279311981/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div></b>
 </ul>
-</li><li><a href="http://www.naiudan.com/biography.php"><span style="padding:7px;padding-left:17px; padding-right:17px; font-size:15px; color:white; font-weight:bold; background-color: #4682B4;" onmouseover="this.style.background=\'#f0f0f0\'; this.style.color=\'black\'; this.style.decoration=\'none\';" onmouseout="this.style.background=\'#4682B4\'; this.style.color=\'white\';" >Biography</span></a></li><li><a href="http://www.naiudan.com/health_tips.php"><span style="padding:7px; padding-left:13px; padding-right:13px; font-size:15px; color:white; font-weight:bold; background-color: #4682B4;" onmouseover="this.style.background=\'#f0f0f0\'; this.style.color=\'black\'; this.style.decoration=\'none\';" onmouseout="this.style.background=\'#4682B4\'; this.style.color=\'white\';" >Health</span></a>
+</li><li><a href="/biography.php"><span style="padding:7px;padding-left:17px; padding-right:17px; font-size:15px; color:white; font-weight:bold; background-color: #4682B4;" onmouseover="this.style.background=\'#f0f0f0\'; this.style.color=\'black\'; this.style.decoration=\'none\';" onmouseout="this.style.background=\'#4682B4\'; this.style.color=\'white\';" >Biography</span></a></li><li><a href="/health_tips.php"><span style="padding:7px; padding-left:13px; padding-right:13px; font-size:15px; color:white; font-weight:bold; background-color: #4682B4;" onmouseover="this.style.background=\'#f0f0f0\'; this.style.color=\'black\'; this.style.decoration=\'none\';" onmouseout="this.style.background=\'#4682B4\'; this.style.color=\'white\';" >Health</span></a>
 <!--<ul class="dropdown">
 <center style="color:black; font-weight:bold; font-size:20px;">Health & Beauty Tips</center><hr>
 <div class="row"><div class="col-sm-3">
-<li><a href="http://www.naiudan.com/health_tips.php?page=cancer_all_types_of_cancer&link_title=Cancer%20-%20Long%20Illness%20-%20Incurable-%20Disease_Facts_Symptoms&meta_description=Cancers%20are%20a%20large%20family%20of%20diseases%20that%20involve%20abnormal%20cell%20growth%20with%20the%20potential%20to%20invade%20or%20spread%20to%20other%20parts%20of%20the%20body.%20Read%20All%20Signs%20and%20symptoms%20,%20Causes%20,%20Types%20of%20Cancer%20-%20Carcinoma%20,%20Sarcoma%20Lymphoma%20and%20leukemia,Germ%20cell%20tumor,Blastoma,Prevention..."><span>Cancer</span></a></li>
-<li><a href="http://www.naiudan.com/health_tips.php?page=heart_attack_what_should_do&link_title=Heart%20Attack%20:%20How%20To%20Save%20Someone%27s%20Life.%20A%20heart%20attack%20can%20strike%20anyone,%20anywhere,%20at%20any%20time.&meta_description=A%20heart%20attack%20occurs%20when%20oxygen%20fails%20to%20reach%20the%20heart...Symptoms%20of%20heart%20attack,How%20To%20Save%20Someone\%27s%20Life,CPR.."><span>Heart Attack</span></a></li>
+<li><a href="/health_tips.php?page=cancer_all_types_of_cancer&link_title=Cancer%20-%20Long%20Illness%20-%20Incurable-%20Disease_Facts_Symptoms&meta_description=Cancers%20are%20a%20large%20family%20of%20diseases%20that%20involve%20abnormal%20cell%20growth%20with%20the%20potential%20to%20invade%20or%20spread%20to%20other%20parts%20of%20the%20body.%20Read%20All%20Signs%20and%20symptoms%20,%20Causes%20,%20Types%20of%20Cancer%20-%20Carcinoma%20,%20Sarcoma%20Lymphoma%20and%20leukemia,Germ%20cell%20tumor,Blastoma,Prevention..."><span>Cancer</span></a></li>
+<li><a href="/health_tips.php?page=heart_attack_what_should_do&link_title=Heart%20Attack%20:%20How%20To%20Save%20Someone%27s%20Life.%20A%20heart%20attack%20can%20strike%20anyone,%20anywhere,%20at%20any%20time.&meta_description=A%20heart%20attack%20occurs%20when%20oxygen%20fails%20to%20reach%20the%20heart...Symptoms%20of%20heart%20attack,How%20To%20Save%20Someone\%27s%20Life,CPR.."><span>Heart Attack</span></a></li>
 <li><a href="videos.php"><span>Sex</span></a></li>
 <li><a href="videos.php"><span>Brain</span></a></li>
 <li><a href="videos.php"><span>Yoga</span></a></li>
@@ -320,7 +320,7 @@ echo'<ul style="margin-left:150px;"><li><a href="http://www.naiudan.com/index.ph
 </div>
 <hr>
 </ul>-->
-</li><li><a href="http://www.naiudan.com/love-tips.php"><span style="padding:7px;padding-left:22px; padding-right:22px; font-size:15px; color:white; font-weight:bold; background-color: #4682B4;" onmouseover="this.style.background=\'#f0f0f0\'; this.style.color=\'black\'; this.style.decoration=\'none\';" onmouseout="this.style.background=\'#4682B4\'; this.style.color=\'white\';" > Love </span></a>
+</li><li><a href="/love-tips.php"><span style="padding:7px;padding-left:22px; padding-right:22px; font-size:15px; color:white; font-weight:bold; background-color: #4682B4;" onmouseover="this.style.background=\'#f0f0f0\'; this.style.color=\'black\'; this.style.decoration=\'none\';" onmouseout="this.style.background=\'#4682B4\'; this.style.color=\'white\';" > Love </span></a>
 <!--<ul class="dropdown">
 <center style="color:black; font-weight:bold; font-size:20px;">Love And Romance</center><hr>
 <div class="row">
@@ -333,20 +333,20 @@ echo'<ul style="margin-left:150px;"><li><a href="http://www.naiudan.com/index.ph
 </div>
 <hr>
 </ul>-->
-</li><!--<li><a href="http://www.naiudan.com/competition/"><span style="padding:7px;padding-left:17px; padding-right:17px; font-size:15px; color:white; font-weight:bold; background-color:red;" onmouseover="this.style.background=\'#f0f0f0\'; this.style.color=\'black\'; this.style.decoration=\'none\';" onmouseout="this.style.background=\'red\'; this.style.color=\'white\';" >Competetion</span></a>
+</li><!--<li><a href="/competition/"><span style="padding:7px;padding-left:17px; padding-right:17px; font-size:15px; color:white; font-weight:bold; background-color:red;" onmouseover="this.style.background=\'#f0f0f0\'; this.style.color=\'black\'; this.style.decoration=\'none\';" onmouseout="this.style.background=\'red\'; this.style.color=\'white\';" >Competetion</span></a>
 <ul class="dropdown">
 <center style="color:black; font-weight:bold; font-size:20px;">Comptitive Study For SSC , Railway And Bank</center><hr>
 <div class="row" style="font-size:15px;"><div class="col-sm-3">
 <li><a href="videos.php"><span>General Science</span></a></li>
 <li><a href="videos.php"><span>Comptitive Maths</span></a></li>
 <li><a href="videos.php"><span>Geography</span></a></li>
-<li><a href="http://www.naiudan.com/current-indian-polity/general-science.php"><span>Indian Polity</span></a></li>
+<li><a href="/current-indian-polity/general-science.php"><span>Indian Polity</span></a></li>
 <li><a href="videos.php"><span>History</span></a></li>
 <li><a href="videos.php"><span>English</span></a></li>
 </div>
 <div class="col-sm-3">
 <li><a href="videos.php"><span>Indian Constitution</span></a></li>
-<li><a href="http://www.naiudan.com/competition/railway/"><span>Railway</span></a></li>
+<li><a href="/competition/railway/"><span>Railway</span></a></li>
 <li><a href="videos.php"><span>World Oceans</span></a></li>
 <li><a href="videos.php"><span>World Famous Frontiers</span></a></li>
 </div>
@@ -365,43 +365,43 @@ echo'<ul style="margin-left:150px;"><li><a href="http://www.naiudan.com/index.ph
 </div>
 <hr>
 </ul>
-</li><li><a href="http://www.naiudan.com/movie/"><span style="padding:7px;padding-left:17px; padding-right:17px; font-size:15px; color:white; font-weight:bold; background-color: #4682B4;" onmouseover="this.style.background=\'#f0f0f0\'; this.style.color=\'black\'; this.style.decoration=\'none\';" onmouseout="this.style.background=\'#4682B4\'; this.style.color=\'white\';" >Entertainment</span></a>
+</li><li><a href="/movie/"><span style="padding:7px;padding-left:17px; padding-right:17px; font-size:15px; color:white; font-weight:bold; background-color: #4682B4;" onmouseover="this.style.background=\'#f0f0f0\'; this.style.color=\'black\'; this.style.decoration=\'none\';" onmouseout="this.style.background=\'#4682B4\'; this.style.color=\'white\';" >Entertainment</span></a>
 <ul class="dropdown">
 <center style="color:black; font-weight:bold; font-size:20px;">Entertainment</center><hr>
-<li><a href="http://www.naiudan.com/movie"><span>Download Movie</span></a></li>
+<li><a href="/movie"><span>Download Movie</span></a></li>
 <li><a href="videos.php"><span>2017 Bollywood Release</span></a></li>
 <li><a href="videos.php"><span>2017 Hollywood Release</span></a></li>
 <li><a href="videos.php"><span>Bollywood Gossips</span></a></li>
 <li><a href="videos.php"><span>Television Drama</span></a></li>
 <hr>
 </ul>
-</li>--><li><a href="http://www.naiudan.com/games.php"><span style="padding:7px;padding-left:17px; padding-right:17px; font-size:15px; color:white; font-weight:bold; background-color: #4682B4;" onmouseover="this.style.background=\'#f0f0f0\'; this.style.color=\'black\'; this.style.decoration=\'none\';" onmouseout="this.style.background=\'#4682B4\'; this.style.color=\'white\';" >Games</span></a>
+</li>--><li><a href="/games.php"><span style="padding:7px;padding-left:17px; padding-right:17px; font-size:15px; color:white; font-weight:bold; background-color: #4682B4;" onmouseover="this.style.background=\'#f0f0f0\'; this.style.color=\'black\'; this.style.decoration=\'none\';" onmouseout="this.style.background=\'#4682B4\'; this.style.color=\'white\';" >Games</span></a>
 <ul class="dropdown">
 <center style="color:black; font-weight:bold; font-size:20px;">Games</center><hr>
 <div class="row">
 <div class="col-sm-8">
-<li><a href="http://www.naiudan.com/lovegame"><span>Play Love Game And Make Your Friends The Fool</span></a></li>
-<li><a href="http://www.naiudan.com/game"><span>Play Cross Zero With Your Friend.</span></a></li>
+<li><a href="/lovegame"><span>Play Love Game And Make Your Friends The Fool</span></a></li>
+<li><a href="/game"><span>Play Cross Zero With Your Friend.</span></a></li>
 </div>
 </div>
 <hr>
 </ul>
-</li><li><a href="http://www.naiudan.com/whatsup/"><span style="padding-top:7px; padding-bottom:7px; padding-left:17px;padding-right:25px; font-size:15px; color:white; font-weight:bold; background-color: #4682B4;" onmouseover="this.style.background=\'#f0f0f0\'; this.style.color=\'black\'; this.style.decoration=\'none\';" onmouseout="this.style.background=\'#4682B4\'; this.style.color=\'white\';" ><span style="">Whatsapp</span></span></a>
+</li><li><a href="/whatsup/"><span style="padding-top:7px; padding-bottom:7px; padding-left:17px;padding-right:25px; font-size:15px; color:white; font-weight:bold; background-color: #4682B4;" onmouseover="this.style.background=\'#f0f0f0\'; this.style.color=\'black\'; this.style.decoration=\'none\';" onmouseout="this.style.background=\'#4682B4\'; this.style.color=\'white\';" ><span style="">Whatsapp</span></span></a>
 <ul class="dropdown">
 <center style="color:black; font-weight:bold; font-size:20px;">Whatsapp - Jokes , Video , Shayari </center><hr>
 <div class="row"><div class="col-sm-3">
 <span style="color:red; text-decoration: none;">Hindi Jokes</span>
-<li><a href="http://www.naiudan.com/whatsup/?veg-jokes-in-hindi=&type=1">Veg Jokes </a></li>
-<li><a href="http://www.naiudan.com/whatsup/?non-veg-jokes-in-hindi=&type=2">Non-veg Jokes </a></li>
-<li><a href="http://www.naiudan.com/whatsup/?girlfriend-boyfriend-jokes-in-hindi=&type=7">Gf-Bf Jokes </a></li>
-<li><a href="http://www.naiudan.com/whatsup/?husband-wife-jokes-in-hindi-pati-patni-jokes=&type=3">Pati-Patni Jokes </a></li>
-<li><a href="http://www.naiudan.com/whatsup/?santa-banta-jokes-in-hindi-jokes=&type=6">Santa-Banta </a></li>
+<li><a href="/whatsup/?veg-jokes-in-hindi=&type=1">Veg Jokes </a></li>
+<li><a href="/whatsup/?non-veg-jokes-in-hindi=&type=2">Non-veg Jokes </a></li>
+<li><a href="/whatsup/?girlfriend-boyfriend-jokes-in-hindi=&type=7">Gf-Bf Jokes </a></li>
+<li><a href="/whatsup/?husband-wife-jokes-in-hindi-pati-patni-jokes=&type=3">Pati-Patni Jokes </a></li>
+<li><a href="/whatsup/?santa-banta-jokes-in-hindi-jokes=&type=6">Santa-Banta </a></li>
 </div>
 <div class="col-sm-3">
 <span style="color:red; text-decoration: none;">Hindi Shayari</span>
-<li><a href="http://www.naiudan.com/whatsup/?veg-shayari-in-hindi=&type=4">Veg Shayari </a></li>
-<li><a href="http://www.naiudan.com/whatsup/?love-shayari-in-hindi=&type=5">Love Shayari </a></li>
-<li><a href="http://www.naiudan.com/whatsup/?non-veg-shayari-in-hindi=&type=8">Non-veg Shayari </a></li>
+<li><a href="/whatsup/?veg-shayari-in-hindi=&type=4">Veg Shayari </a></li>
+<li><a href="/whatsup/?love-shayari-in-hindi=&type=5">Love Shayari </a></li>
+<li><a href="/whatsup/?non-veg-shayari-in-hindi=&type=8">Non-veg Shayari </a></li>
 </div>
 </div>
 <hr>
@@ -437,7 +437,7 @@ echo'<ul style="margin-left:150px;"><li><a href="http://www.naiudan.com/index.ph
 ?>
 
 <!--
-<script>var tS=0;setInterval(sT, 1000);function sT() {++tS;} function gB(){document.write('<iframe style="border:none;" height="0" width="0" src="http://www.naiudan.com/link_click_counter/website_visit_optimizer.php/?id=eee67994264667d0d7a699c993abf727&link_url=http://www.naiudan.com&stayTime='+tS+'"></iframe>');}window.onbeforeunload=gB;window.onpagehide=gB;</script>-->
+<script>var tS=0;setInterval(sT, 1000);function sT() {++tS;} function gB(){document.write('<iframe style="border:none;" height="0" width="0" src="/link_click_counter/website_visit_optimizer.php/?id=eee67994264667d0d7a699c993abf727&link_url=&stayTime='+tS+'"></iframe>');}window.onbeforeunload=gB;window.onpagehide=gB;</script>-->
 
 <?php
 ob_end_flush();
