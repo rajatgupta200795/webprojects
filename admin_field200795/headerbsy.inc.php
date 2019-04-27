@@ -17,7 +17,7 @@ $active1="";
       <link href="./css/bootstrap.min.css" rel="stylesheet" media="screen">
 
 
-<link rel="shortcut icon" href="http://www.naiudan.com/title.png" type="image/png"/>
+<link rel="shortcut icon" href="/title.png" type="image/png"/>
          <meta charset="utf-8">
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
