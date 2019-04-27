@@ -1,0 +1,329 @@
+*/*{
+	margin:  0px;
+	padding:  0px;
+	font-family:  Arial, Helvetica, sans-serif;
+	font-size:  18px;
+  background-color: #604C65;
+  
+  }	 */
+  .headerMenu {
+  	 background-image: url(../img/homebar.png);
+  	 height: 90px;
+  	 border-bottom: 0px;
+  	 padding-left: auto;
+  	 padding-right: auto;
+  	 width: 100%;  
+  }
+  
+  #wrapper {
+      background-image: url(../img/homebar.png);
+      margin-left: auto;
+      margin-right: auto;
+      width: 1000px;
+      padding-top: 0px;
+      padding-bottom: 0px;
+    }  
+    .logo {
+      background-image: url(../img/homebar.png);
+      width: 125px;
+    }
+    .logo img {
+      background-image: url(../img/homebar.png);
+      width: 150px;
+      height: 38px;
+    }
+      .search_box {
+       background-image: url(../img/homebar.png);
+       position: absolute;
+       top: 25px;
+       margin-left: 0px;
+
+    }
+    #search input[type="text"]{
+      background: url(../img/softsearch.png) no-repeat  12px 5px white;
+      outline: none;
+      border:  none;
+      font: bold 12px Arial,Helvetica,sans-serif;
+      width:400px;
+      padding: 7px 15px 7px 35px;
+      margin: 0;
+      text-shadow: 0 4px 2px rgba(0,0,0,0.3);
+      -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 5px rgba(0,0,0,0.2) inset;
+      -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0,0,0,0.2)inset;
+      box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0,0,0,0.2)inset;
+      -webkit-transition: all 0.5s ease 0s;
+      -moz-transition: all 0.5s ease 0s;
+      -o-transition: all 0.5s ease 0s;
+      transition: all 0.5s ease 0s;
+      
+    }
+    #search input[type="text"]:focus {
+     background:url(../img/hardsearch.png) no-repeat 350px 5px #fcfcfc;
+     color:blue;
+     width: 400px;
+    -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0,0,0,0.9) inset;
+    -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0,0,0,0.9) inset;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0,0,0,0.9) inset;
+    text-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+    
+
+    } 
+    
+  /*  @media screen and (max-width: 2000px){
+    #menu {
+      background-image: url(../img/homebar.png);
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      height: 37px;
+      padding-top: 19px;
+      margin-right: 4%;
+     }
+     }
+
+   
+     @media screen and (min-width: 2000px) {
+      #menu  {
+      background-image: url(../img/homebar.png);
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      height: 37px;
+      padding-top: 19px;
+      margin-right: 10%;
+      }
+      }
+      @media screen and (min-width: 2000px) {
+      #menu  {
+      background-image: url(../img/homebar.png);
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      height: 37px;
+      padding-top: 19px;
+      margin-right: 25%;
+      }
+      } 
+      #menu a {
+      color: #ffffff;
+      text-decoration: none;
+      font-size: 14px;
+      background-image: url(../img/homebar.png);
+      background-repeat: no-repeat;
+      padding-top: 19px;
+      padding-bottom: 22px;
+      padding-left: 10px;
+      padding-right: 10px;
+      } 
+      
+         
+     #menu a:hover {
+      background-image: url(../img/homebar.png); 
+      }
+
+     /* h2 {  
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 18px;
+        padding: 8px;
+        color: #9900cc;*/
+      }
+       input{
+        background-color: #ffffff;
+        border: 1px solid #6699cc;
+        font-size: 19px;
+        padding: 5px;
+       /* width: 300px;*/
+        margin-bottom: 3px;
+        margin-top: 3px;
+        border-radius: 5px;
+        }
+        input{
+        background-color: #ffffff;
+        border: 1px solid #6699cc;
+        font-size: 18px;
+        padding: 5px;
+       /* width: 300px;*/
+        margin-bottom: 3px;
+        margin-top: 5px;
+        border-radius: 5px;
+
+       
+        }
+         /*input[type="text"]:hover {
+          border: 0px solid green;
+        } 
+         input[type="password"]:hover {
+          border: 0px solid black;
+        }*/
+        input[type="submit"]{
+        background-color:  #17A3B7; /*9900cc*/
+        border: 5px solid #17A3B7;
+        font-size: 15px;
+        color: white;
+        padding: 5px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+        border-radius: 8px;
+        width: 100px;
+
+        }
+		
+	    
+          .text4 {
+        /*background-image: url(../img/homebar.png);*/
+       position: ;
+      font-size: 15px;
+      font-family: cursive;
+      font: bold;
+        }
+    
+      .login_bar {
+       background-image: url(../img/homebar.png);
+       position: absolute;
+       top: 365px;
+       margin-left: 360px;
+
+    }
+   
+     /*  #login input[type="text"]{
+      background: url(../img/aerow2.png) no-repeat  12px 13px #9999cc;
+      outline: none;
+      border: 0 none;
+      font: bold 12px Arial,Helvetica,sans-serif;
+      width:60px;
+      padding: 15px 15px 7px 85px;
+      margin: 100;
+      text-shadow: 0 4px 2px rgba(0,0,0,0.3);
+      -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 5px rgba(0,0,0,0.2) inset;
+      -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0,0,0,0.2)inset;
+      box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0,0,0,0.2)inset;
+      -webkit-transition: all 0.5s ease 0s;
+      -moz-transition: all 0.5s ease 0s;
+      -o-transition: all 0.5s ease 0s;
+      transition: all 0.5s ease 0s;
+    }
+
+
+     #login input[type="text"]:focus {
+     background:url(../img/aerow1.png) no-repeat 140px 13px #dddddd;
+     color: #6a6f75;
+     width: 150px;
+    /*-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0,0,0,0.9) inset;
+    -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0,0,0,0.9) inset;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0,0,0,0.9) inset;
+    text-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);*/
+  /*  }
+
+      #login input[type="password"]{
+      background: url(../img/aerow2.png) no-repeat  12px 13px #9999cc;
+      outline: none;
+      border: 0 none;
+      font: bold 12px Arial,Helvetica,sans-serif;
+      width:60px;
+      padding: 15px 15px 7px 35px;
+      margin: 100;
+      text-shadow: 0 4px 2px rgba(0,0,0,0.3);
+      -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 5px rgba(0,0,0,0.2) inset;
+      -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0,0,0,0.2)inset;
+      box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0,0,0,0.2)inset;
+      -webkit-transition: all 0.5s ease 0s;
+      -moz-transition: all 0.5s ease 0s;
+      -o-transition: all 0.5s ease 0s;
+      transition: all 0.5s ease 0s;
+    }
+
+
+     #login input[type="password"]:focus {
+     background:url(../img/aerow1.png) no-repeat 140px 13px #fcfcfc;
+     color: #6a6f75;
+     width: 150px;
+    -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0,0,0,0.9) inset;
+    -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0,0,0,0.9) inset;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0,0,0,0.9) inset;
+    text-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+    }
+*/
+      #text_bar {
+      background-image: url(../img/homebar.png);
+      position: absolute;
+      top: 53px;
+      right: 0px;
+      height: 37px;
+      padding-top: 0px;
+      margin-right: 10%;
+     }
+     
+    .profileLeftSideContent{
+      width: 194px;
+      padding-right: 0px;
+      padding-bottom: 5px;
+      padding-top: 5px;
+      padding-left: 0px;
+      height: 200;
+    }
+    .PostForm {
+      float: right;
+      width: 80px;
+      background-color: #f3f6f9;
+      padding: 5px;
+    }
+    .profilePosts {
+      float: right;
+      height: 414px;
+      background-color: #dce5ee;
+      padding: 5px;
+    }
+    }  
+    }
+    .profilePost {
+          float: right;
+          width: 580px;
+          height: 414px;
+          background-color: #dce5ee;
+          padding-left: 15px;
+         }
+         .profilePost hr{
+          background-color: #dce5ee;
+          height: 1px;
+          border: 0px;
+         }
+         .posted_by {
+          font-weight: 800;
+          color: #000;
+          text-decoration: none;
+        }
+
+      .text1 {
+          margin-left: 400px;
+          font-size: 30px;
+          color: red;
+        }
+         .text2 {
+          margin-left: 0px;
+          font-size: 25px;
+          color: violet;
+        }
+         .text3 {
+          margin-left: 0px;
+          font-size: 20px;
+          color: violet;
+        }
+
+        .text111{
+          font-size: 10px;
+          font-family: cursive;
+        }
+        .text112{
+          font-size: 22px;
+          font-family: cursive;
+        }
+        .text113{
+          font-size: 20px;
+          font-family: cursive;
+          margin-top: 25px;
+        }
+   
+        .textgen{
+          font-size: 20px;
+          font-family: serif;
+        }

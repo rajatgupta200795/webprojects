@@ -1,0 +1,24 @@
+[17-Jan-2017 16:08:53 UTC] PHP Fatal error:  Cannot redeclare isMobileDevice() (previously declared in /home/naiudanc/public_html/lovegame/header.php:84) in /home/naiudanc/public_html/lovegame/header.php on line 100
+[17-Jan-2017 16:10:08 UTC] PHP Fatal error:  Cannot redeclare isMobileDevice() (previously declared in /home/naiudanc/public_html/lovegame/header.php:84) in /home/naiudanc/public_html/lovegame/header.php on line 100
+[02-Feb-2017 11:15:15 UTC] PHP Warning:  include(inc/connect.php): failed to open stream: No such file or directory in /home/naiudanc/public_html/lovegame/logout.php on line 1
+[02-Feb-2017 11:15:15 UTC] PHP Warning:  include(inc/connect.php): failed to open stream: No such file or directory in /home/naiudanc/public_html/lovegame/logout.php on line 1
+[02-Feb-2017 11:15:15 UTC] PHP Warning:  include(): Failed opening 'inc/connect.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/naiudanc/public_html/lovegame/logout.php on line 1
+[02-Feb-2017 11:15:15 UTC] PHP Notice:  Undefined variable: un in /home/naiudanc/public_html/lovegame/logout.php on line 5
+[08-Feb-2017 08:43:08 UTC] PHP Fatal error:  Cannot redeclare isMobileDevice() (previously declared in /home/naiudanc/public_html/lovegame/header.php:84) in /home/naiudanc/public_html/lovegame/header.php on line 100
+[08-Feb-2017 09:28:53 UTC] PHP Fatal error:  Cannot redeclare isMobileDevice() (previously declared in /home/naiudanc/public_html/lovegame/header.php:84) in /home/naiudanc/public_html/lovegame/header.php on line 100
+[25-Mar-2017 08:39:23 UTC] PHP Notice:  Undefined index: user_gm in /home/naiudanc/public_html/lovegame/mydb.php on line 14
+[25-Mar-2017 08:39:23 UTC] PHP Notice:  Undefined variable: link_gen in /home/naiudanc/public_html/lovegame/mydb.php on line 25
+[25-Mar-2017 08:39:23 UTC] PHP Notice:  Undefined variable: link_gen in /home/naiudanc/public_html/lovegame/mydb.php on line 25
+[25-Mar-2017 08:39:23 UTC] PHP Notice:  Undefined index: user_gm in /home/naiudanc/public_html/lovegame/mydb.php on line 47
+[26-Mar-2017 18:44:26 UTC] PHP Fatal error:  Cannot redeclare isMobileDevice() (previously declared in /home/naiudanc/public_html/lovegame/header.php:84) in /home/naiudanc/public_html/lovegame/header.php on line 100
+[26-Mar-2017 18:45:06 UTC] PHP Fatal error:  Cannot redeclare isMobileDevice() (previously declared in /home/naiudanc/public_html/lovegame/header.php:84) in /home/naiudanc/public_html/lovegame/header.php on line 100
+[27-Mar-2017 08:56:52 UTC] PHP Notice:  Undefined index: user_gm in /home/naiudanc/public_html/lovegame/mydb.php on line 14
+[27-Mar-2017 08:56:52 UTC] PHP Notice:  Undefined variable: link_gen in /home/naiudanc/public_html/lovegame/mydb.php on line 25
+[27-Mar-2017 08:56:52 UTC] PHP Notice:  Undefined variable: link_gen in /home/naiudanc/public_html/lovegame/mydb.php on line 25
+[27-Mar-2017 08:56:52 UTC] PHP Notice:  Undefined index: user_gm in /home/naiudanc/public_html/lovegame/mydb.php on line 47
+[10-May-2017 09:23:37 UTC] PHP Notice:  Trying to get property of non-object in /home/naiudanc/public_html/lovegame/index.php on line 187
+[10-May-2017 09:24:05 UTC] PHP Notice:  Trying to get property of non-object in /home/naiudanc/public_html/lovegame/index.php on line 187
+[15-May-2017 10:15:48 UTC] PHP Fatal error:  Cannot redeclare isMobileDevice() (previously declared in /home/naiudanc/public_html/lovegame/header.php:84) in /home/naiudanc/public_html/lovegame/header.php on line 100
+[25-May-2017 00:49:29 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/naiudanc/public_html/inc/connect.inc.php on line 4
+[25-May-2017 00:49:29 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/naiudanc/public_html/inc/connect.inc.php on line 4
+[25-May-2017 09:27:30 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/naiudanc/public_html/inc/connect.inc.php on line 4

@@ -1,0 +1,68 @@
+
+<!--
+    <script type="text/javascript">
+        var widthLabel = document.getElementById("myDiv");
+        var totalWidth = 0;
+        setInterval(setTime, 1);
+
+        function setTime()
+        {
+            totalWidth+=1;
+            if(totalWidth<250)
+            widthLabel.style.width = totalWidth+'px';
+            else if(totalWidth<600)
+            widthLabel.style.height = totalWidth+'px';
+        }
+        timedMsg1();
+
+	function timedMsg1(){
+
+		document.getElementById('myDiv').innerHTML = '<marquee direction="down" scrollamount="18"><div style="font-family: Paytone one, Open Sans, Lato   ;  font-size: 23px; height:290px; text-align: center; color: #ff5252; background-color: white;">Put Your Advertise Here </div></marquee>'; 
+		var t1 = setTimeout(timedMsg2 , 2450);
+
+	}
+
+		function timedMsg2(){
+
+		document.getElementById('myDiv').innerHTML = '<div style="font-family: Paytone one, Open Sans, Lato   ; font-size: 23px; text-align: center; color: red; background-color: white; margin-top:230px;">Put Your Advertise Here</div>'; 
+		var t1 = setTimeout(timedMsg3 , 1000);
+
+	}
+
+
+
+			function timedMsg3(){
+   document.getElementById('myDiv').innerHTML = '<div style="font-family: Paytone one, Open Sans, Lato   ; font-size: 23px; text-align: center; color: #ff5252; background-color: white; margin-top:230px; ">At Price <span style="font-size:23px; font-weight:bold; color: #ff5252;">$10 Only</span></div>';
+		var t3 = setTimeout(timedMsg4 , 2000);
+
+	}
+
+				function timedMsg4(){
+   document.getElementById('myDiv').innerHTML = '<div style="font-family: Paytone one, Open Sans, Lato   ; font-size: 23px; text-align: center; color: #ff5252; background-color: white; margin-top:170px; "><b style="color:#488273;">Start From Today </b></br></br> We\'ll create free </br>set up for your Advertise</div>';
+		var t3 = setTimeout(timedMsg5 , 2000);
+
+	}
+
+
+				function timedMsg5(){
+   document.getElementById('myDiv').innerHTML = '<div style="font-family: Paytone one, Open Sans, Lato   ; font-size: 23px; text-align: center; color: #ff5252; background-color: white; margin-top:170px; "><b style="color:#488273;">Start From Today </b></br></br> We\'ll create free </br>set up for your Advertise</br></br> <span style="color:#488273;;">Contact Us Now</span></div>';
+		var t3 = setTimeout(timedMsg6 , 2000);
+
+	}
+
+				function timedMsg6(){
+   document.getElementById('myDiv').innerHTML = '<div style="font-family: Paytone one, Open Sans, Lato   ; font-size: 23px; text-align: center; color: #ff5252; background-color: white; margin-top:170px; "><b style="color:#488273;">Start From Today </b></br></br> We\'ll create free </br>set up for your Advertise</br></br> <span style="font-size:20px; color:#488273;;">Call At </br>+919807264017</span></div>';
+		var t3 = setTimeout(timedMsg7 , 2000);
+
+	}
+  
+  				function timedMsg7(){
+   document.getElementById('myDiv').innerHTML = '<div style="font-family: Paytone one, Open Sans, Lato   ; font-size: 23px; text-align: center; color: #ff5252; background-color: white; margin-top:170px; "><b style="color:#488273;">Start From Today </b></br></br> We\'ll create free </br>set up for your Advertise</br></br><span style="font-size:16px; font-weight:bold; color:#488273;">Mail Us At </span><span style="font-size:15px; color:#488273;">rajatgupta200795@gmail.com</div>';
+		var t3 = setTimeout(timedMsg8 , 2000);
+	}
+
+  				function timedMsg8(){
+   document.getElementById('myDiv').innerHTML = '<div style="font-size:25px;color:grey; margin-top:230px; text-align:center">Powered By </br>naiudan.com</div>';
+		var t3 = setTimeout(timedMsg1 , 2000);
+	}
+    </script>-->

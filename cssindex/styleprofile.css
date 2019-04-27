@@ -1,0 +1,224 @@
+*{
+  margin:  0px;
+  padding:  0px;
+  font-family:  Arial, Helvetica, sans-serif;
+  font-size:  18px;
+  background-color: #604C65;  /* #eff5f9;*/
+  
+  }  
+  .headerMenu {
+     background-image: url(../img/homebar.png);
+     height: 65px;
+     border-bottom: 0px;
+     padding-left: auto;
+     padding-right: auto;
+     width: 100%;  
+  }
+  
+    .social{
+    padding-bottom: 0px;
+    padding-left: 1180px;
+
+    }
+  
+  #wrapper {
+      background-image: url(../img/homebar.png);
+      margin-left: auto;
+      margin-right: auto;
+      width: 1000px;
+      padding-top: 0px;
+      padding-bottom: 0px;
+    }  
+    .logo {
+      background-image: url(../img/homebar.png);
+      width: 125px;
+    }
+    .logo img {
+      background-image: url(../img/homebar.png);
+      width: 150px;
+      height: 38px;
+    }
+      .search_box {
+       background-image: url(../img/homebar.png);
+       position: absolute;
+       top: 15px;
+       margin-left: 0px;
+    }
+    #search input[type="text"]{
+      background: url(../img/softsearch.png) no-repeat  12px 5px white;
+      outline: none;
+      border: 0 none;
+      font: bold 12px Arial,Helvetica,sans-serif;
+      width:400px;
+      padding: 7px 15px 7px 35px;
+      margin: 0;
+      text-shadow: 0 4px 2px rgba(0,0,0,0.3);
+      -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 5px rgba(0,0,0,0.2) inset;
+      -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0,0,0,0.2)inset;
+      box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0,0,0,0.2)inset;
+      -webkit-transition: all 0.5s ease 0s;
+      -moz-transition: all 0.5s ease 0s;
+      -o-transition: all 0.5s ease 0s;
+      transition: all 0.5s ease 0s;
+    }
+    #search input[type="text"]:focus {
+     background:url(../img/hardsearch.png) no-repeat 350px 5px #fcfcfc;
+     color: #6a6f75;
+     width: 400px;
+    -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0,0,0,0.9) inset;
+    -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0,0,0,0.9) inset;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0,0,0,0.9) inset;
+    text-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+    } 
+    
+    @media screen and (max-width: 2000px){
+    #menu {
+      background-image: url(../img/homebar.png);
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      height: 37px;
+      padding-top: 19px;
+      margin-right: 7%;
+     }
+     }
+
+   
+     @media screen and (min-width: 2000px) {
+      #menu  {
+      background-image: url(../img/homebar.png);
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      height: 37px;
+      padding-top: 19px;
+      margin-right: 10%;
+      }
+      }
+      @media screen and (min-width: 2000px) {
+      #menu  {
+      background-image: url(../img/homebar.png);
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      height: 37px;
+      padding-top: 19px;
+      margin-right: 25%;
+      }
+      } 
+      #menu a {
+      color: #ffffff;
+      text-decoration: none;
+      font-family: cursive;
+      font-size: 14px;
+      background-image: url(../img/homebar.png);
+      background-repeat: no-repeat;
+      padding-top: 19px;
+      padding-bottom: 10px;
+      padding-left: 13px;
+      padding-right: 13px;
+      } 
+      
+         
+     #menu a:hover {
+      background-image: url(../img/homebar.png); 
+      }*/
+
+      h2 {  
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 18px;
+        padding: 8px;
+        color: #9900cc;
+      }
+        input[type="text"]{
+        background-color: #ffffff;
+         border: 0px solid #e2e2e2;
+        font-size: 17px;
+        padding: 5px;
+        width: 300px;
+        margin-bottom: 3px;
+        margin-top: 3px;
+        }
+         input[type="password"]{
+        background-color: #ffffff;
+        border: 1px solid #e2e2e2;
+        font-size: 17px;
+        padding: 5px;
+        width: 300px;
+        margin-bottom: 3px;
+        margin-top: 3px;
+        }
+         input[type="text"]:hover {
+          border: 0px solid green;
+        } 
+         input[type="password"]:hover {
+          border: 1px solid black;
+        }
+        input[type="submit"]{
+        background-color:  #9900cc;
+        border: 1px solid #00508d;
+        font-size: 15px;
+        color: #ffffff;
+        padding: 5px;
+        margin-bottom: 3px;
+        margin-top: 3px;
+        border-radius: 5px;
+        }
+        .text_bar{
+          font-size: 100px;
+          width: 10px;
+        }
+
+        .text1 {
+          margin-left: 400px;
+          font-size: 30px;
+          color: red;
+        }
+        .text111{
+          font-size: 12px;
+          font-family: cursive;
+        }
+        .text112{
+          font-size: 12px;
+          font-family: cursive;
+        }
+        .text113{
+          font-family: cursive;
+          font-size: 20px;
+          color: violet;
+        }
+
+        li{
+          color: #200746;
+        }
+        u{
+          color: black;
+          font-style: italic;
+          font-family: serif;
+        }
+        th{
+          font-family: cursive;
+          color: violet;
+        }
+       .searchoutput{
+        font-style: italic;
+          font-size: 14px;
+          margin-top: 100px;
+          margin-left: 110px;
+          margin-right: 110px;
+          background-color: ;
+          color: #F280F9;
+          font-family: cursive;
+    }
+        .dateplace{
+          margin-top: 0px;
+          margin-left: 30px;
+          font-family: cursive;
+          color:violet;
+          font-size: 10px;
+        }
+       .footertext{
+        font-size: 10px;
+        font-family: cursive;
+        text-align: center;
+       }

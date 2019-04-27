@@ -1,0 +1,41 @@
+  *     .profiletextplace{
+          margin-left: 80px;
+          font-family: cursive;
+          margin-top: 0px;
+          margin-right: 30px;
+        }
+        .editcontrol1{
+          font-family: cursive;
+          font-style: italic;
+          font-size: 12px;
+          margin-left: 150px;
+        }
+        .personid{
+          margin-left: 100px;
+          font-family: cursive;
+        }
+        .personstudy{
+          margin-left: 100px;
+          font-family: cursive;
+        }
+        .personlocation{
+          font-family: cursive;
+          margin-left: 100px;
+        }
+        .personprofession{
+          font-family: cursive;
+          margin-left: 100px;
+        }
+        .changtimetext{
+          font-family: cursive;
+          margin-left: 100px;
+        }
+        .makeitpage{
+          padding-left: 110px;
+        }
+        c{
+          color: orange;
+          font-family: cursive;
+          font-style: italic;
+          text-align: center;
+        }

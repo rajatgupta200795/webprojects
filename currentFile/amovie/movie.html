@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Based On A True Story</title>
+</head>
+<body id="body" style=" background-color: blue;">
+
+<!--<div id="backColor" style="height: 30%; top: 0px;left: 0px; background-color: blue; position: absolute; width: 100%;"></div>-->
+
+<marquee direction="right" scrollamount="20"><img height="80" src="bird.gif"></marquee>
+<marquee direction="right" scrollamount="15"><img height="50" src="bird.gif"></marquee>
+<marquee direction="right" scrollamount="30" ><img height="140" src="bird.gif"></marquee>
+<marquee direction="right" scrollamount="12"><img height="40" src="bird.gif"></marquee>
+<marquee direction="right" scrollamount="17"><img height="40" src="bird.gif"></marquee>
+
+
+
+
+<div style="position: absolute; ">
+<div id="homeUp" style="left: 550px; position: absolute; top: -270px;  height: 200px; width: 300px; background-color:green; border: 2px solidgreen;"></div>
+	<div id="roofUp" style="position: absolute; margin-left: 450px; height: 80px; top: -350px; width: 500px; background-color:green; border: 4px solid DARKgreen;"></div>
+	<div id="gateUp" style="position: absolute;left: 600px; top:0px; margin-top: -217px; height: 138px; width: 80px; background-color: rgb(255,247,94); border-right: 10px solid DARKgreen;border-left: 10px solid DARKgreen;border-top: 10px solid DARKgreen;"></div>
+	<div id="windowUp" style="position: absolute; margin-left: 730px; top: -200px; height: 50px; width: 80px; background-color:  rgb(255,247,94); border: 10px solid DARKgreen;"></div>
+	<!--<div id="baseUp" style="position: absolute; margin-left: 532px; top: -100px; height: 20px; width: 320px; background-color:green; border: 4px solid DARKgreen;"></div>-->
+	<div id="pillerLeftUp" style="position: absolute;left: 470px;  margin-top:-263px; height: 210px; width: 10px; background-color:green; border-right: 5px solid DARKgreen;border-left: 5px solid DARKgreen;border-bottom: 2px solid brown;"></div>
+
+	<div id="pillerRightUp" style="position: absolute;left: 930px; top: -263px;  height: 210px; width: 10px; background-color:green; border-right: 5px solid DARKgreen;border-left: 5px solid DARKgreen;border-bottom:  2px solid brown;"></div>
+
+
+
+
+
+
+	<div id="home" style="left: 550px; position: absolute;  height: 200px; width: 300px; background-color:green; border: 2px solidgreen;"></div>
+	<div id="roof" style="position: absolute; margin-left: 450px; height: 80px; top: -70px; width: 500px; background-color:green; border: 4px solid DARKgreen;"></div>
+	<div id="gate" style="position: absolute;left: 600px; top:0px; margin-top: 60px; height: 138px; width: 80px; background-color: rgb(255,247,94); border-right: 10px solid DARKgreen;border-left: 10px solid DARKgreen;border-top: 10px solid DARKgreen;"></div>
+	<div id="window" style="position: absolute; margin-left: 730px; top: 100px; height: 50px; width: 80px; background-color:  rgb(255,247,94); border: 10px solid DARKgreen;"></div>
+	<div id="base" style="position: absolute; margin-left: 532px; top: 200px; height: 20px; width: 330px; background-color:green; border: 4px solid DARKgreen;">
+	</div>
+	<div id="pillerLeft" style="position: absolute;left: 470px; top:0px; margin-top: 17px; height: 200px; width: 10px; background-color:green; border-right: 5px solid DARKgreen;border-left: 5px solid DARKgreen;border-bottom: 2px solid brown;"></div>
+
+	<div id="pillerRight" style="position: absolute;left: 930px; top: 0px; margin-top: 17px; height: 200px; width: 10px; background-color:green; border-right: 5px solid DARKgreen;border-left: 5px solid DARKgreen;border-bottom:  2px solid brown;"></div>
+
+</div>
+
+
+<img style="position: absolute; top: 195px; margin-left: 640px; width: 13PX;" id="bulbUp"  src="bulb1.png">
+<img style="position: absolute; top: 470px; margin-left: 640px; width: 13PX;" id="bulb" src="bulb1.png">
+
+
+<div style="position: absolute; margin-left: 100px; top: 120px; border-radius: 2px; background-color: black; height: 170px; width: 15px;"></div>
+<div style="position: absolute; margin-left: 60px; top: 140px; border-radius: 5px; background-color: black; height: 6px; width: 100px;"></div>
+<div style="position: absolute; margin-left: 60px; top: 150px; border-radius: 5px; background-color: black; height: 6px; width: 100px;"></div>
+<div style="position: absolute; margin-left: 60px; top: 160px; border-radius: 5px; background-color: black; height: 6px; width: 100px;"></div>
+
+
+<div style="position: absolute; margin-left: 293px; top: 60px; border-radius: 2px; background-color: black; height: 150px; width: 13px;"></div>
+<div style="position: absolute; margin-left: 260px; top: 80px; border-radius: 5px; background-color: black; height: 6px; width: 80px;"></div>
+<div style="position: absolute; margin-left: 260px; top: 90px; border-radius: 5px; background-color: black; height: 6px; width: 80px;"></div>
+<div style="position: absolute; margin-left: 260px; top: 100px; border-radius: 5px; background-color: black; height: 6px; width: 80px;"></div>
+
+
+<script type="text/javascript">
+
+/*
+var widthLabel = document.getElementById("gate");	
+var totalWidth = 80;
+var totalHeight = 138;
+var totalMarginLeft = 400;
+var totalMarginTop = 50;
+setInterval(setTime, 100);
+
+        function setTime()
+        {
+            totalWidth+=2;  totalHeight+=2; totalMarginLeft-=1; totalMarginTop-=1;
+             if(totalWidth<1200){
+            widthLabel.style.width = totalWidth+'px';
+          if(totalMarginLeft<200)  widthLabel.style.marginLeft = totalMarginLeft +'px';
+          if(totalMarginTop<50)  widthLabel.style.marginTop = totalMarginTop +'px';
+        }
+            if(totalWidth<900){
+            widthLabel.style.height = totalHeight+'px';
+        }
+    }*/
+
+//document.write('<marquee direction="down" scrollamount="11" style="font-size: 50px; position: absolute; height: 100%; margin-top: -360px; color: skyblue;">.</marquee>');
+
+
+msg1();
+var thndrCount=0
+var soundEffect;
+function msg1(){
+	document.getElementById("body").style.backgroundColor = 'black';
+	document.getElementById("home").style.backgroundColor = 'green';
+	document.getElementById("base").style.backgroundColor = 'green';
+	document.getElementById("roof").style.backgroundColor = 'green';
+
+	document.getElementById("pillerLeftUp").style.backgroundColor = 'green';
+	document.getElementById("pillerRightUp").style.backgroundColor = 'green';
+	document.getElementById("pillerLeft").style.backgroundColor = 'green';
+	document.getElementById("pillerRight").style.backgroundColor = 'green';
+	document.getElementById("homeUp").style.backgroundColor = 'green';
+	document.getElementById("roofUp").style.backgroundColor = 'green';
+	var soundEffect = new Audio("sound/Night_Time_Storm-Natboy-1603862702.mp3"); // buffers automatically when created
+   // soundEffect.play();
+	//document.getElementById("backColor").style.backgroundColor = 'black';
+	var t1 = setTimeout(msg2 , 2000)
+}
+
+function msg2(){
+	thndrCount++; 
+	document.getElementById("body").style.backgroundColor = 'white';
+	document.getElementById("home").style.backgroundColor = 'white';
+	document.getElementById("base").style.backgroundColor = 'white';
+	document.getElementById("roof").style.backgroundColor = 'white';
+
+	document.getElementById("pillerLeftUp").style.backgroundColor = 'white';
+	document.getElementById("pillerRightUp").style.backgroundColor = 'white';
+	document.getElementById("pillerLeft").style.backgroundColor = 'white';
+	document.getElementById("pillerRight").style.backgroundColor = 'white';
+	document.getElementById("homeUp").style.backgroundColor = 'white';
+	document.getElementById("roofUp").style.backgroundColor = 'white';
+	//document.getElementById("backColor").style.backgroundColor = 'skyblue';
+	var t1 = setTimeout(msg3 , 15)
+}
+
+soundEffectFunction();
+function soundEffectFunction(){
+	soundEffect = new Audio("sound/Perfect Thunder Storm-SoundBible.com-2056381765.mp3"); // buffers automatically when created
+    soundEffect.play();
+	var timeSoundEffect = setTimeout(soundEffectFunction , 20000)
+}
+
+function msg3(){
+	document.getElementById("body").style.backgroundColor = 'black';
+	document.getElementById("home").style.backgroundColor = 'green';
+	document.getElementById("base").style.backgroundColor = 'green';
+	document.getElementById("roof").style.backgroundColor = 'green';
+
+	document.getElementById("pillerLeftUp").style.backgroundColor = 'green';
+	document.getElementById("pillerRightUp").style.backgroundColor = 'green';
+	document.getElementById("pillerLeft").style.backgroundColor = 'green';
+	document.getElementById("pillerRight").style.backgroundColor = 'green';
+	document.getElementById("homeUp").style.backgroundColor = 'green';
+	document.getElementById("roofUp").style.backgroundColor = 'green';
+    //snd = new Audio("file.wav"); // buffers automatically when created
+    //soundEffect.play();
+	if(thndrCount%20!=0)
+	var t1 = setTimeout(msg2 , 15)
+    else
+   	var t1 = setTimeout(msg1 , 3000)
+
+}
+
+
+
+bulbEffect1();
+var bulbEffectCount=0
+
+function bulbEffect1(){
+	document.getElementById("gate").style.backgroundColor = 'rgb(255,247,94)';
+	document.getElementById("gate").style.backgroundColor = 'rgb(255,247,94)';
+	document.getElementById("gate").style.backgroundColor = 'rgb(255,247,94)';
+	document.getElementById("gate").style.backgroundColor = 'rgb(255,247,94)';
+	document.getElementById("bulb").src = 'bulb1.png';
+	document.getElementById("bulbUp").src = 'bulb1.png';
+	var tbulbEffect = setTimeout(bulbEffect2 , 950)
+}
+
+function bulbEffect2(){
+	bulbEffectCount++; 
+	document.getElementById("gate").style.backgroundColor = 'black';
+	//document.getElementById("gateUp").style.backgroundColor = 'black';
+	document.getElementById("window").style.backgroundColor = 'black';
+	//document.getElementById("windowUp").style.backgroundColor = 'black';
+	document.getElementById("bulb").src = 'bulb0.png';
+	//document.getElementById("bulbUp").src = 'bulb0.png';
+	var tbulbEffect = setTimeout(bulbEffect3 , 100)
+}
+
+function bulbEffect3(){
+	document.getElementById("gate").style.backgroundColor = 'rgb(255,247,94)';
+	document.getElementById("gateUp").style.backgroundColor = 'rgb(255,247,94)';
+	document.getElementById("window").style.backgroundColor = 'rgb(255,247,94)';
+	document.getElementById("windowUp").style.backgroundColor = 'rgb(255,247,94)';
+	document.getElementById("bulb").src = 'bulb1.png';
+	document.getElementById("bulbUp").src = 'bulb1.png';
+
+	if(bulbEffectCount%2!=0)
+	var tbulbEffect = setTimeout(bulbEffect2 , 10)
+    else
+   	var tbulbEffect = setTimeout(bulbEffect1 ,5050)
+
+}
+
+
+</script>
+
+
+
+</body>
+</html>
