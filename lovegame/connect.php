@@ -1,7 +1,7 @@
 <?php
 
 
-$con= new mysqli('localhost','naiudanc_sonyssb','naiudanc_sonyssb','naiudanc_findfriends') or die(mysqli_error($con));
+$con= new mysqli('localhost','root','Rajat@20071995','naiudanc_findfriends') or die(mysqli_error($con));
 
 
 ?>
