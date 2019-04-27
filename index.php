@@ -12,7 +12,7 @@ echo'
 <div class="container-fluid">
 <div class="row" style="font-size:15px;"><div class="col-sm-1"><span style="font-size:50px; color: #9841b4;" class="glyphicon glyphicon-link"></span>
 </div>
-<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="http://www.naiudan.com/link_click_counter/">Count Your Link Clicks And Web Page Views</a></span>
+<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/link_click_counter/">Count Your Link Clicks And Web Page Views</a></span>
 </br>
 Count total and unique clicks on your link and count total visiters of your webpage.</br>
 You can get more details about visiters like their IP , Location , time & date of visit.
