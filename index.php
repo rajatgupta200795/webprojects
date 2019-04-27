@@ -27,7 +27,7 @@ echo'
 <div class="container-fluid">
 <div class="row" style="font-size:15px;"><div class="col-sm-1"><span style="font-size:50px; color: orange;" class="glyphicon glyphicon-th"></span>
 </div>
-<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="http://www.naiudan.com/game/">Cross Zero Game - Two Players</a></span>
+<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/game/">Cross Zero Game - Two Players</a></span>
 </br>
 Play cross zero game without Internet with an interactive score board and cpanel.</br>
 We are working on creating a online cross zero game where you can play with your friends from all over the world throw Internet. 
@@ -60,7 +60,7 @@ echo'
 <div class="container-fluid">
 <div class="row" style="font-size:15px;"><div class="col-sm-1"><span style="font-size:40px; color:#128ea2;" class="glyphicon glyphicon-fullscreen"></span>
 </div>
-<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="http://www.naiudan.com/my-wishes">Create Your Digital Wishes 
+<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/my-wishes">Create Your Digital Wishes 
 For Your Friends (Under Construction)</a></span>
 </br>
 Make your friends\' birthday, festival, marriage special by sending him your digital birthday wishes.</br>
@@ -79,7 +79,7 @@ echo'
 <div class="container-fluid">
 <div class="row" style="font-size:15px;"><div class="col-sm-1"><span style="font-size:50px; color: #5814c5;" class="glyphicon glyphicon-book"></span>
 </div>
-<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="http://www.naiudan.com/current-indian-polity/general-science.php">Curent Indian Polity</a></span>
+<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/current-indian-polity/general-science.php">Curent Indian Polity</a></span>
 </br>
 Learn about current Indian polity and all cabinet member of Indian Government . </br>
 Keep updated yourself for competitive exams like bank/PO/IBPS/railway/ias/pcs/SSC/cgl.
@@ -93,7 +93,7 @@ echo'
 <div class="container-fluid">
 <div class="row" style="font-size:15px;"><div class="col-sm-1"><span style="font-size:50px; color: #b7a133;" class="glyphicon glyphicon-user"></span>
 </div>
-<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="http://www.naiudan.com/biography.php">Read Biography Of Famous Face</a></span>
+<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/biography.php">Read Biography Of Famous Face</a></span>
 </br>
 Read biography of famous from world . </br>
 Narendra-Modi/Sonia-Gandhi/P.V.-Sindhu/Sakshi-Malik/Hafiz-Muhammad-Saeed/Ravindrababu-Ravula/Kim-Jong-un/Sunder-Pichai/Atal-Bihari-Bajpai
@@ -109,7 +109,7 @@ echo'
 <div class="container-fluid">
 <div class="row" style="font-size:15px;"><div class="col-sm-1"><span style="font-size:50px; color:black;" class="glyphicon glyphicon-phone"></span>
 </div>
-<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="http://www.naiudan.com/whatsup/">Whatsapp Entertainment - Hindi Jokes , Shayari , Stories.</a></span>
+<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/whatsup/">Whatsapp Entertainment - Hindi Jokes , Shayari , Stories.</a></span>
 </br>
 Read funny veg/non-veg jokes , shayari , short stories in Hindi.</br>
 Enjoy funny jokes of gf/bf , husband/wife , santa/banta/pappu and share with your friends.
