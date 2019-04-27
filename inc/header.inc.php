@@ -17,7 +17,7 @@ if (!isset($_COOKIE["userlogin"])) {
 else
 {
 
- $account_button='<a href="signin_signup.php"><button class="btn btn-default" style="font-family:cursive; margin-top:7px; color:blue;">naiudan Account</button></a>';
+ $account_button='<a href="signin_signup.php"><button class="btn btn-default" style="font-family:cursive; margin-top:7px; color:blue;">devopsrider Account</button></a>';
       
        require_once("./inc/lastseen.php");
 
@@ -32,7 +32,7 @@ else
 <meta name="google-site-verification" content="OVFWaU62XlBmPDpNGfkdLQhTVZX4DgC1O9RTiJmyTn8" />
 
              <meta charset="UTF-8">
-             <title><?php if(isset($_GET['link_title']) && $_GET['link_title']!="")echo$_GET['link_title'];else echo"Nai Udan"; ?></title>
+             <title><?php if(isset($_GET['link_title']) && $_GET['link_title']!="")echo$_GET['link_title'];else echo"DevOps Rider"; ?></title>
              <link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css" />
              <link rel="stylesheet" type="text/css" href="./cssindex/styleprofile1.css" />
              <link rel="stylesheet" type="text/css" href="./cssindex/style.css" />
