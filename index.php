@@ -6,6 +6,9 @@ echo'
 <div class="col-sm-8" style="line-height:30px; font-size:medium;">
 ';
 
+echo'<b>My Projects</b>
+<hr>';
+
 
 echo'
 </br>
@@ -71,7 +74,10 @@ To create your wishes, enter your name and receiver\'s name, generate link and s
 ';
 
 
-
+echo'
+</br>
+<b>My Projects</b>
+<hr>';
 
 
 echo'
