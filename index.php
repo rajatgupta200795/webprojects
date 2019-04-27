@@ -207,7 +207,7 @@ ob_end_flush();
 	}
 
   				function timedMsg8(){
-   document.getElementById('myDiv').innerHTML = '<div style="font-size:25px;color:grey; margin-top:230px; text-align:center">Powered By </br>naiudan.com</div>';
+   document.getElementById('myDiv').innerHTML = '<div style="font-size:20px;color:grey; margin-top:230px; text-align:center">Powered By </br>devopsrider.com</div>';
 		var t3 = setTimeout(timedMsg1 , 2000);
 	}
     </script>
