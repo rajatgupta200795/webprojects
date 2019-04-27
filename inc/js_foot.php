@@ -30,7 +30,7 @@ document.getElementById("sitead").innerHTML = '<marquee SCROLLAMOUNT=10><div sty
 timedwish1();
 function timedwish1(){
 var t3 = setTimeout("timedwish2()" , 500);
-document.getElementById("wish").innerHTML = '<div style="color:white; text-align:center; margin-top:5px;"> ' + wishLine + ' Visiter !</div>';
+document.getElementById("wish").innerHTML = '<div style="color:white; text-align:center; margin-top:5px;"> ' + wishLine + '</div>';
 }
 function timedwish2(){
 var t4 = setTimeout("timedwish1()" , 500);
