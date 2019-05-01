@@ -67,7 +67,7 @@
 if(isMobileDevice())
 echo'<div class="col-sm-1"></div>  
   <div class="col-sm-11"><div class="link_change">
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.mcskkt.com/notice_feeds.php"style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Notice</b></a> 
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="./notice_feeds.php"style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Notice</b></a> 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="exam_shedule.php"style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Exam</b></a> 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="extra_activity.php"style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Extra Activity</b></a> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href=""><b>Holydays</b></a>   
@@ -78,7 +78,7 @@ echo'<div class="col-sm-1"></div>
 else  
 echo'  <div class="col-sm-1"></div>
   <div class="col-sm-11"><div class="link_change">
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.mcskkt.com/notice_feeds.php"style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Notice</b></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="./notice_feeds.php"style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Notice</b></a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="exam_shedule.php"style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Exam</b></a> 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href="extra_activity.php"style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Extra Activity</b></a> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;  <a href=""style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Holydays</b></a>   
