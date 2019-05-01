@@ -3,7 +3,7 @@
 <div class="container">
 
 <div class="row" style="font-size: 20px;  color:purple; ">
-<div class="col-sm-3"><div style="font-family:cursive; font-size:50px;"><a href="http://www.naiudan.com">naiudan.com</a></div>
+<div class="col-sm-3"><div style="font-family:cursive; font-size:50px;"><a href="http://www.devopsrider.com">devopsrider.com</a></div>
 </div>
 <div class="col-sm-6">
 	
@@ -22,7 +22,7 @@ $query="SELECT * FROM love_calc WHERE username='$un' LIMIT 1";
 
 }
 echo'<a href="#" onclick="toggle_visibility(\'link_generator\')";><div style="font-size: 30px; position:absolute; right:35px;top:5px; font-family: monospace; color:red;">x</div></a>';
-echo'Your Link Is :</br><a href="http://www.naiudan.com/lovegame/crush.php?love_calculator='.$link_gen.'">www.naiudan.com/lovegame/crush.php?love_calculator='.$link_gen.'</a></br></br>
+echo'Your Link Is :</br><a href="/lovegame/crush.php?love_calculator='.$link_gen.'">www.devopsrider.com/lovegame/crush.php?love_calculator='.$link_gen.'</a></br></br>
 Copy it and paste anywhere to make people fool.</br></br>
 <button onclick="toggle_visibility(\'link_generator\')"; class="btn btn-default" style="font-size:20px; position:absolute; right:70px;" >ok</button></br>';
 
