@@ -220,7 +220,7 @@ echo'Sorry! You Entered Wrong Email Address Or Password.Please Try Valid Email A
 
 ?>
 
-<div style="height:150px; background-color: #4e4646; width:100%;"></div>
+<!-- <div style="height:150px; background-color: #4e4646; width:100%; "></div> -->
 
 
 
