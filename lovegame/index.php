@@ -11,7 +11,7 @@ exit();
 
 <div class="container">
 
-<div style="font-family:Helvetica,Arial,sans-serif; font-size:50px;"><a href="../">Nai Udan</a></div>
+<div style="font-family:Helvetica,Arial,sans-serif; font-size:50px;"><a href="../">DevOps Rider</a></div>
 
 
 <center><span style="font-size: 50px; font-family: Helvetica,Arial,sans-serif; color: ; " >Welcome To Love Game</span></center></br>
