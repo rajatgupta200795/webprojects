@@ -77,7 +77,7 @@ To create your wishes, enter your name and receiver\'s name, generate link and s
 echo'
 </br>
 <div class="container-fluid">
-<div class="row" style="font-size:15px;"><div class="col-sm-1"><span style="font-size:40px; color:#128ea2;" class="glyphicon glyphicon-fullscreen"></span>
+<div class="row" style="font-size:15px;"><div class="col-sm-1"><span style="font-size:40px; color:#12a212;" class="glyphicon glyphicon-film"></span>
 </div>
 <div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/my-wishes">A Dark Night - Animation Story</a></span>
 </br>
