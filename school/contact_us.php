@@ -101,7 +101,8 @@ Thank you for visiting here.</br></br> Have A Nice Day !
 
 <center style="font-size:20px; font-family : agency fb; font-weight:bold;">Find On Google Map</center><hr>
 
-<script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script><div width="100%" style='overflow:hidden;height:300px;'><div id='gmap_canvas' width="100%" style='height:300px;'></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div><script type='text/javascript'>function init_map(){var myOptions = {zoom:11,center:new google.maps.LatLng(26.836309800000002,84.07706053828134),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(26.836309800000002,84.07706053828134)});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script> 
+<iframe width="85%" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src=
+"http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=274303,kathkuiyan+market,uttarpradesh,india&amp;sspn=33.984984987,77.607422&amp;ie=UTF8&amp;hq=&amp;hnear=274303,kathkuiyan+market,uttarpradesh,india&amp;z=12&amp;output=embed"></iframe> 
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
 

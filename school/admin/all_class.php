@@ -42,7 +42,7 @@ echo"1. <div class='row'><div class='col-sm-1'></div><div class='col-sm-3'><a hr
 <hr style='height:1px;border:none;color:#333;background-color:#333;'>
 ";
 $j=0;
-$query=$con->query("SELECT * from student_entry where present_class='L.KG.'");
+$query=$con->query("SELECT * from student_entry where present_class='L.K.G.'");
 if($query->num_rows>0){
 while($row=$query->fetch_assoc()){
 	$j++;

@@ -6,7 +6,7 @@
 
 <div class="container">
 
-<center><h1>Extra Caricular activities</h1></center>
+<center><h1>Extra curricular activities</h1></center>
 <hr style="height:3px;border:none;color:#333;background-color:#333;">
 </br>
      

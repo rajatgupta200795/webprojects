@@ -175,19 +175,19 @@ if($start_session=="") $start_session = $seesion_year;
 </select>
 </div>
 <div class="col-sm-6">
-<b>Birthday</b> : <select  name="bdate" class="form-control" required>
+<b>Birthday</b> : <select  name="bdate" class="form-control" >
 	<option><?php echo $bdate; ?></option>
 <?php for($i=1;$i<=31;$i++)
 	echo'<option>'.$i.'</option>';
 	?>
 </select>
-<select  name="bmonth" class="form-control" required>
+<select  name="bmonth" class="form-control" >
 	<option><?php echo $bmonth; ?></option>
 <?php for($i=1;$i<=12;$i++)
 	echo'<option>'.$i.'</option>';
 	?>
 </select>
-<select  name="byear" class="form-control" required>
+<select  name="byear" class="form-control" >
 	<option><?php echo $byear; ?></option>
 <?php for($i=date("Y");$i>1980;$i--)
 	echo'<option>'.$i.'</option>';
@@ -200,14 +200,14 @@ if($start_session=="") $start_session = $seesion_year;
 <div class="row">
 <div class="col-sm-6"><b>Father's Name</b> : <input type="text" size="20" name="father_name" value="<?php echo $father_name ;?>" class="form-control" placeholder="Enter Father Name" required>
 </div>
-<div class="col-sm-6"><b>Mother's Name</b> : <input type="text" size="20" name="mother_name"  value="<?php echo $mother_name ;?>" class="form-control" placeholder="Enter Mother's Name"  required>
+<div class="col-sm-6"><b>Mother's Name</b> : <input type="text" size="20" name="mother_name"  value="<?php echo $mother_name ;?>" class="form-control" placeholder="Enter Mother's Name"  >
 </div>
 </div>
 
 </br>
 
 <div class="row">
-<div class="col-sm-6"><b>Parents's Phone</b> : <input type="text" size="20" name="contact_phone" value="<?php echo $contact_phone ;?>" class="form-control" placeholder="Parents's Phone Number" required> 	
+<div class="col-sm-6"><b>Parents's Phone</b> : <input type="text" size="20" name="contact_phone" value="<?php echo $contact_phone ;?>" class="form-control" placeholder="Parents's Phone Number" > 	
 </div>
 <div class="col-sm-6"><b>Student's Phone</b> : <input type="text" size="20" name="student_phone" value="<?php echo $student_phone ;?>" class="form-control" placeholder="Mobile Number (Optional)"> 	</div></div>
 

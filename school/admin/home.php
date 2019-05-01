@@ -10,7 +10,7 @@ header("location:../");
 
 ?>
 
-
+</br>
 
 <center><h1>Welcome To Admin Area</h1></center>
 
@@ -19,12 +19,34 @@ header("location:../");
 <div class="row">
 <div class="col-sm-1"></div>
 <div class="col-sm-2">
+<b>Student</b>
 <ul>
-	<li><a href="update_notice.php"> Notice</a></li>
-	<li><a href="all_class.php"> Student </a></li>
-	<li><a href="new_faculity.php"> Faculity </a></li>
-	<li><a href="exam_feeds.php"> Exam </a></li>
-	<li><a href="messege_to_student.php"> Send SMS </a></li>
+	<li><a href="http://www.mcskkt.com/admin/new_student.php">Add New Student </a></li>
+	<li><a href="student_identity_card.php"> ID Card </a></li>
+	<li><a href="student_identity_card.php"> Marksheet </a></li>
+</ul>
+
+</br>
+<b>Faculity</b>
+<ul>
+<li><a href="new_faculity.php"> Faculity </a></li>
+<li><a href="exam_feeds.php"> Exam </a></li>
+</ul>
+
+</br>
+<b>Information</b>
+<ul>
+<li><a href="messege_to_student.php"> Send SMS </a></li>
+<li><a href="update_notice.php"> Notice</a></li>
+</ul>
+
+</br>
+<b>For Exam</b>
+<ul>
+	<li><a href="all_subjects_for_exam.php"> Add Subjects </a></li>
+	<li><a href="schedule_exam.php">  Scedule Exam </a></li>
+	<li><a href="upload_exam_result.php">  Upload Result </a></li>
+	<li><a href="student_result.php">  Student Result </a></li>
 </ul>
 
 </div>

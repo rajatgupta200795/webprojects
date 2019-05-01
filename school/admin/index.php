@@ -22,6 +22,7 @@ header("location:../admin/home.php");
 
 <b>Username</b> : <input type="text" size="30" name="username" class="form-control" placeholder="Enter Username" required></br></br>
 <b>Password</b> : <input type="password" size="30" name="password" class="form-control" placeholder="Enter Password" required></br></br>
+<a href="forget_pswd.php">Forget Password ?</a></br></br>
 <input type="submit" name="send" value=" &nbsp;&nbsp;&nbsp;Sign In&nbsp;&nbsp;&nbsp; " style="margin-left:-50px;" class="btn btn-info">
 
 
@@ -32,12 +33,6 @@ header("location:../admin/home.php");
 
 
 
-
-</center>
-
-</div>
-</div>
-
 <?php
 
 $send = @$_POST['send'];
@@ -47,17 +42,24 @@ if($send){
 	$username = $_POST['username'];
     $password = $_POST['password'];
 
-    if($username="gorakhpur" && $password=="ashi16"){
+$query=$con->query("SELECT * FROM admin where password='$password' and email ='$username'");
+$count=$query->num_rows;
+
+    if($count>0){
         
         setcookie("user_login" , md5($username));
     	header("location:home.php");
     	exit();
     }
+    else echo'</br></br><div style="font-size:20px; color:red; text-align:center;"><span class="glyphicon glyphicon-warning-sign"></span> Password is not Same. Please Enter same Password In Both Field.</div>
+</br></br>';
 }
+
+echo'
+</center>
+</div>
+</div>';
 
 
 ob_end_flush();
-
-?>
-
-<?php include"../inc/footer.php";  ?>
+include"../inc/footer.php";  ?>

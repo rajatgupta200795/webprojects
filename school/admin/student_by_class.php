@@ -82,7 +82,7 @@ echo'</div>';
 $class = @$_GET['class']; 
 
 if($class){
-$query = $con->query("SELECT * FROM student_entry where present_class = '$class'");
+$query = $con->query("SELECT * FROM student_entry where present_class = '$class' order by roll_no,first_name ASC");
 
 echo"We have total ".$query->num_rows." Students in class ".$class."<hr>";
 
@@ -92,7 +92,7 @@ echo'<div class="row"><div class="col-sm-2"><b>Roll Number</b></div><div class="
 while($row = $query->fetch_assoc()){
 
    echo "<div class='row'><div class='col-sm-2'><a href='new_student.php?get_roll_number=".$row['roll_no']."'>".$row['roll_no']."</a></div><div class='col-sm-3'><a href='new_student.php?get_roll_number=".$row['roll_no']."'>".strtoupper($row['first_name'])." ".strtoupper($row['last_name'])."</a></div>
-   <div class='col-sm-3'><a href='new_student.php?get_roll_number=".$row['roll_no']."'>".strtoupper($row['father_name'])."</a></div><div class='col-sm-2'><a href='student_fees_feed.php?get_roll_number=".$row['roll_no']."'>Fees</a></div><div class='col-sm-1'><a href='student_by_class.php?delete=&get_roll_number=".$row['roll_no']."'>Delete</a></div></div>";
+   <div class='col-sm-3'><a href='new_student.php?get_roll_number=".$row['roll_no']."'>".strtoupper($row['father_name'])."</a></div><div class='col-sm-2'><a href='student_fees_feed.php?get_roll_number=".$row['roll_no']."'>Fees</a></div><div class='col-sm-1'><a href='student_by_class.php?delete=&get_roll_number=".$row['roll_no']."'>Delete</a></div></div><hr>";
 
 }
 }

@@ -34,7 +34,7 @@ else echo "<div style='  margin-top:100px; height:65px;'>Sorry! Not Data Found .
 </div>
 
 <div class="col-sm-7" style="text-align:left; font-size:30px;"> Mr. ANKIT SINGH</br>
-B.TECH. From Gorakhpur</br>
+
 <b>Phone</b> : +919628673350 </br>
 <b>E-Mail</b> : Akray1607@gmail.com
 </div></div>

@@ -1,4 +1,3 @@
-
 <?php include"./inc/header.php";  
 
 
@@ -13,7 +12,7 @@
 <?php
 
 
-$query = $con->query("SELECT * from notice where 1=1 ORDER BY added_date limit 10");
+$query = $con->query("SELECT * from notice where 1=1 ORDER BY id DESC limit 10");
 
 echo"<ol>";
 while($row=$query->fetch_assoc()){

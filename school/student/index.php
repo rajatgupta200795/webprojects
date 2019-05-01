@@ -27,11 +27,11 @@ echo'</br><h4>Enter The Roll Number Of Student And Get <b>Profile/Fees/Attendenc
 
 
 <form  class="navbar-form" method="POST" action="">
- <div class="form-group-sm">
+ <div class="form-group-lg">
 
-<b>Enter Roll Number : </b><input type="text" size="30" class="form-control" value="<?php  echo $roll_number; ?>" name="roll_no" placeholder="Enter Roll Number">
+<b>Enter Roll Number : </b><input type="text" size="30" class="form-control form-lg" value="<?php  echo $roll_number; ?>" name="roll_no" placeholder="Enter Roll Number">
 
-<input type="submit"  class="btn btn-info btn-sm" value="Submit" name="send">
+<input type="submit"  class="btn btn-info btn-lg" value="Submit" name="send">
 
 </div></form>
 
@@ -80,32 +80,41 @@ $paddress = $row['paddress'];
 $laddress = $row['laddress'];
 
 $student_photo = $row['student_photo'];
+$gender = $row['gender'];
+if($student_photo==""){
+if($gender=="male") $student_photo="http://mcskkt.com/img/default_male.png";
+else $student_photo="http://mcskkt.com/img/default_female.png";
+}
 
 if(!$my_fee_status){
 
 echo'
 <hr>
 <div class="jumbotron">
-<div class="row" class="jumbotron">
+<div class="row">
+
+<div style="font-size:35px; text-align:center; font-family:sans-serif">My Profile</div>
+
+<hr style="height:1px; width:90%; border:none; color:#333;background-color: lightgrey;">
 
 <div class="col-sm-1"></div>
-<div class="col-sm-4">
+<div class="col-sm-3">
 
-<img height="200" width="200" src="'.$student_photo.'">
+<img height="200" width="200" style="border:2px solid lightgrey; border-radius:10px;" src="'.$student_photo.'">
 
 </div>
 
-<div class="col-sm-3">
+<div class="col-sm-4">
 
-<b>Name : </b> '.strtoupper($fname).' '.strtoupper($lname).'</br><br>
+<b>Name : </b> '.ucwords($fname).' '.ucwords($lname).'</br><br>
 
-<b>Father\'s Name : </b> '.strtoupper($father_name).'</br></br>
+<b>Father\'s Name : </b> '.ucwords($father_name).'</br></br>
 
-<b>Mother\'s Name : </b> '.strtoupper($mother_name).'</br></br>
+<b>Mother\'s Name : </b> '.ucwords($mother_name).'</br></br>
 
 <b>Date Of Birth : </b> '.$bdate.'/'.$bmonth.'/'.$byear.'</br></br>
 
-<b>Class : </b> '.$present_class.'</br></br>
+<b>Class : </b> '.ucwords($present_class).'</br></br>
 
 
 </div>
@@ -120,8 +129,14 @@ echo'
 </div>
 
 </div>
+
 </div
-';
+
+</br></br>
+
+<div class="jumbotron">';
+include"student_identity_card.php";
+echo'</div>';
 }
 
 }
@@ -345,7 +360,7 @@ echo'
 }
 
 else echo'<hr style="height:1px;border:none;color:#333;background-color:#333;">
-<h2>Sorry ! Either Your Fess Data Is not Uploaded Or No Student Of This Roll Number Is Exist.</h2>';
+<h2>Sorry ! Either Your Fee Data Is not Uploaded Or No Student Of This Roll Number Is Exist.</h2>';
 
 
 
