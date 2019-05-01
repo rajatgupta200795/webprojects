@@ -17,7 +17,7 @@
 <p>In order to earn money from Adsence, you have to create account and wait for two or three working days to be approved by google.If you get an approval mail from google, you can put advertise on your website. Dont't worry about advertise, its quality and its type all these issues are managed by adsence. </br>
 <a href="https://www.google.com/adsense/start/?hl=nz&sourceid=aso&subid=ap-nz-ha-bk&medium=ha&utm_medium=ha&utm_term=adsence&gclid=CjwKEAiAlNbEBRCv9uy4j4SWrgwSJAB5MqJFuu9VmUCtMCTWi8H0miuyo4nW5e8cnC-WSbX0teOEEBoCNVPw_wcB#?modal_active=none" target="_blank"><b>Create Account on Adsence >></b></a></p>
 
-<hr>
+<hr> 
 
 <p><b>2. Affilates marketing : </b> If you have more than thosand visiters per day then affilate marketing may be the best way to monetize your website. Suppose you write about camera and the people come to your website who are intrested in camera then you can put affilate links of camera companies and when someone buy camera through your link then you will get commission from that camera company. If you get more than thousand people in a day then there will be atleast one who will buy camera.</p>
 <p>There are many companies who offer for affilate marketing. Amazon and Click bank are big example of it.
