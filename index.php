@@ -125,7 +125,7 @@ echo'
 </div>
 <div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/bharatbazar/index.php">BharatBazar</a></span>
 </br>
-In today\'s busy lifestyle, pureand genuine items have become out of reach</br> and shopkeepers are evading taxes  and becoming rich.</br>At Bharat Bazaar we provide branded articles for daily use house hold items,</br> Kitchen Accessories, Grocery, Apparel all under one roof with bill.
+In today\'s busy lifestyle, pure and genuine items have become out of reach</br> and shopkeepers are evading taxes  and becoming rich.</br>At Bharat Bazaar we provide branded articles for daily use house hold items,</br> Kitchen Accessories, Grocery, Apparel all under one roof with bill.
 </div>
 </div>
 ';
@@ -165,7 +165,7 @@ ob_end_flush();
         function setTime()
         {
             totalWidth+=1;
-            if(totalWidth<250)
+            if(totalWidth<200)
             widthLabel.style.width = totalWidth+'px';
             else if(totalWidth<600)
             widthLabel.style.height = totalWidth+'px';
@@ -174,7 +174,7 @@ ob_end_flush();
 
 	function timedMsg1(){
 
-		document.getElementById('myDiv').innerHTML = '<marquee direction="down" scrollamount="18"><div style="font-family: Paytone one, Open Sans, Lato   ;  font-size: 23px; height:290px; text-align: center; color: #ff5252; background-color: white;">Put Your Advertise Here </div></marquee>'; 
+		document.getElementById('myDiv').innerHTML = '<marquee direction="down" scrollamount="16"><div style="font-family: Paytone one, Open Sans, Lato   ;  font-size: 23px; height:290px; text-align: center; color: #ff5252; background-color: white;">Put Your Advertise Here </div></marquee>'; 
 		var t1 = setTimeout(timedMsg2 , 2450);
 
 	}
