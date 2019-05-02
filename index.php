@@ -217,7 +217,7 @@ ob_end_flush();
 	}
 
 				function timedMsg6(){
-   document.getElementById('myDiv').innerHTML = '<div style="font-family: Paytone one, Open Sans, Lato   ; font-size: 23px; text-align: center; color: #ff5252; background-color: white; margin-top:170px; "><b style="color:#488273;">Start From Today </b></br></br> We\'ll create free </br>set up for your Advertise</br></br> <span style="font-size:20px; color:#488273;;">Call At </br>+919807264017</span></div>';
+   document.getElementById('myDiv').innerHTML = '<div style="font-family: Paytone one, Open Sans, Lato   ; font-size: 23px; text-align: center; color: #ff5252; background-color: white; margin-top:170px; "><b style="color:#488273;">Start From Today </b></br></br> We\'ll create free </br>set up for your Advertise</br></br> <span style="font-size:20px; color:#488273;;">Call At </br>+917081717420</span></div>';
 		var t3 = setTimeout(timedMsg7 , 2000);
 
 	}
