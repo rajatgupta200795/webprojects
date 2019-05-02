@@ -38,7 +38,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand" href="http://www.devopsrider.com/" style="font-size: 30px;">ewishes.online</a>
+      <a class="navbar-brand" href="http://www.devopsrider.com/" style="font-size: 30px;"> Digital Ewishes</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
 
