@@ -82,7 +82,7 @@ a:hover {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="http://www.naiudan.com" style="font-family:Comic Sans MS; font-size:20px; font-weight: bold; color:white;"><span class="glyphicon glyphicon-menu-hamburger"></span> naiudan.com -> Web Analyser</a>
+      <a class="navbar-brand" href="http://www.devopsrider.com/" style="font-family:Comic Sans MS; font-size:20px; font-weight: bold; color:white;"><span class="glyphicon glyphicon-menu-hamburger"></span>  Web Analyser</a>
     </div>
 
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
