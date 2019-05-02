@@ -87,10 +87,7 @@ An animation programmed in html css and javascript with a horror thunder sound.
 </div>
 </div>
 ';
-echo'
-</br>
-<b>Blog and Entertainment</b>
-<hr>';
+
 
 echo'
 </br>
