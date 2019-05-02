@@ -123,7 +123,7 @@ echo'
 <div class="container-fluid">
 <div class="row" style="font-size:15px;"><div class="col-sm-1"><span style="font-size:50px; color:black;" class="glyphicon glyphicon-shopping-cart"></span>
 </div>
-<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/bharatbazar/index.php">BharatBazar</a></span>
+<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/bharatbazar/index.php">Bharat Bazar</a></span>
 </br>
 In today\'s busy lifestyle, pure and genuine items have become out of reach</br> and shopkeepers are evading taxes  and becoming rich.</br>At Bharat Bazaar we provide branded articles for daily use house hold items,</br> Kitchen Accessories, Grocery, Apparel all under one roof with bill.
 </div>
