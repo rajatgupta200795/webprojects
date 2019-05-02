@@ -217,7 +217,7 @@ echo'</div>
 
 
 echo'</div>
-<div class="col-sm-2"  > <a href="/lovegame/"><div style="margin-top:10px; font-size:17px;font-weight:bold;">Play Game</div></a></div>
+<div class="col-sm-2"  > <a href="http://www.devopsrider.com/lovegame/index.php/"><div style="margin-top:10px; font-size:17px;font-weight:bold;">Play Game</div></a></div>
 <div class="col-sm-2"  > <a href="/current-indian-polity/general-science.php"><div style="margin-top:10px; font-size:17px;font-weight:bold; ">Current Indian Polity</div></a></div>
 <div class="col-sm-3" style="margin-top:0px; font-size:10px;"><a href="https://www.facebook.com/Technical-Friend-741984279311981/"> Like Our Facebook Page</a> <div class="fb-like" data-href="https://www.facebook.com/Technical-Friend-741984279311981/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div></div>
 </div>';
@@ -243,7 +243,7 @@ echo'</div>
 <div class="row">
 <div class="col-sm-12" style="color:lightgrey; margin-left:-4px; padding-bottom:1px;  padding-left:20px; border-bottom : 1px solid lightgrey; padding-top:1px; font-size:12px; background-color: #448aff;">
 <span style="margin-left:0px;padding-bottom:1px; padding-top:1px; font-size:12px; background-color: #448aff;">
-<a href="/link_click_counter/" style="color: white;" >Click Optimizer</a> &nbsp; | &nbsp; 
+<a href="http://www.devopsrider.com/link_click_counter/index.php" style="color: white;" >Click Optimizer</a> &nbsp; | &nbsp; 
 <a href="/current-indian-polity/general-science.php" style="color:white;">Current Indian Polity</a> &nbsp;|&nbsp; 
 <a href="../n/lovegame/" style="color:white;">Love Game</a> &nbsp;|&nbsp; 
 <a href="https://www.facebook.com/Technical-Friend-741984279311981/" style="padding:4px; color: white;" >Like Our Facebook Page</a><div class="fb-like" data-href="https://www.facebook.com/Technical-Friend-741984279311981/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
@@ -256,7 +256,7 @@ echo'</div>
 <div class="col-sm-2" style="font-size:25px; font-family:serif; line-height:22px;">
 
 <b style="color:black; margin-top:10px;">DevOps Rider</b></br>
-<a href="" style="font-size:16px; color:black; top:0px;">www.devopsrider.com</a>
+<a href="http://www.devopsrider.com/index.php" style="font-size:16px; color:black; top:0px;">www.devopsrider.com</a>
 ';
 
 echo'</div>
@@ -368,13 +368,13 @@ echo'<ul style="margin-left:150px;"><li><a href="/index.php"><span style="paddin
 <li><a href="videos.php"><span>Television Drama</span></a></li>
 <hr>
 </ul>
-</li>--><li><a href="/games.php"><span style="padding:7px;padding-left:17px; padding-right:17px; font-size:15px; color:white; font-weight:bold; background-color: #4682B4;" onmouseover="this.style.background=\'#f0f0f0\'; this.style.color=\'black\'; this.style.decoration=\'none\';" onmouseout="this.style.background=\'#4682B4\'; this.style.color=\'white\';" >Games</span></a>
+</li>--><li><a href="http://www.devopsrider.com/game/index.php"><span style="padding:7px;padding-left:17px; padding-right:17px; font-size:15px; color:white; font-weight:bold; background-color: #4682B4;" onmouseover="this.style.background=\'#f0f0f0\'; this.style.color=\'black\'; this.style.decoration=\'none\';" onmouseout="this.style.background=\'#4682B4\'; this.style.color=\'white\';" >Games</span></a>
 <ul class="dropdown">
 <center style="color:black; font-weight:bold; font-size:20px;">Games</center><hr>
 <div class="row">
 <div class="col-sm-8">
-<li><a href="/lovegame"><span>Play Love Game And Make Your Friends The Fool</span></a></li>
-<li><a href="/game"><span>Play Cross Zero With Your Friend.</span></a></li>
+<li><a href="http://www.devopsrider.com/lovegame/index.php"><span>Play Love Game And Make Your Friends The Fool</span></a></li>
+<li><a href="http://www.devopsrider.com/game/index.php"><span>Play Cross Zero With Your Friend.</span></a></li>
 </div>
 </div>
 <hr>
