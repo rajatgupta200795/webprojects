@@ -4,7 +4,7 @@
 <?php
 
 echo'
-<div style="width:30%; height:70px; background-color:white; padding:16px; font-size: 27px; font-family: \'Open Sans Condensed\', sans-serif; border-top-left-radius:10px;"> What is new for sale ?</div>
+<div style="width:30%; height:70px; background-color:white; padding:16px; font-size: 24px; font-family: \'Open Sans Condensed\', sans-serif; border-top-left-radius:10px;"> What is new for sale ?</div>
 <div style="background-color: red; width: 100%; height: 2px;"></div> 
 <div style="background-color: white; height: 250px; border: 1px solid lightgrey; border-bottom-left-radius:10px; border-bottom-right-radius:10px; border-top-right-radius:5px;">
 <div class="row" style="text-align:center; line-height:20px; font-family: \'Roboto\', sans-serif;">';
