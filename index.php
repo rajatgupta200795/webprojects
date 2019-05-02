@@ -17,8 +17,8 @@ echo'
 </div>
 <div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/link_click_counter/">Count Your Link Clicks And Web Page Views</a></span>
 </br>
-Count total and unique clicks on your link and count total visiters of your webpage.</br>
-You can get more details about visiters like their IP , Location , time & date of visit.
+Count total and unique clicks on your link and count total visiters of your webpage.
+You can get more details about visiters like their IP , Location , time & </br>date of visit.
 </div>
 </div>
 </div>
@@ -32,8 +32,8 @@ echo'
 </div>
 <div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/game/">Cross Zero Game - Two Players</a></span>
 </br>
-Play cross zero game without Internet with an interactive score board and cpanel.</br>
-We are working on creating a online cross zero game where you can play with your friends from all over the world throw Internet. 
+Play cross zero game without Internet with an interactive score board and cpanel.
+We are working on creating a online cross zero game where you can</br> play with your friends from all over the world throw Internet. 
 </div>
 </div>
 </div>
@@ -49,8 +49,8 @@ echo'
 </div>
 <div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="./lovegame/">Play Love Game And Make Your Friends The Fool</a></span>
 </br>
-Play LOVE GAME where you have a chance to make your friend fool and get his/her crush name.</br>
-Create your account generate your link and send this link to your friend and make them fool.
+Play LOVE GAME where you have a chance to make your friend fool and get his/her crush name.
+Create your account generate your link and send </br> this link to your friend and make them fool.
 </div>
 </div>
 </div>
@@ -66,8 +66,8 @@ echo'
 <div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/my-wishes/index.php">Create Your Digital Wishes 
 For Your Friends</a></span>
 </br>
-Make your friends\' birthday, festival, marriage special by sending him your digital birthday wishes.</br>
-To create your wishes, enter your name and receiver\'s name, generate link and send this link to your friends.
+Make your friends\' birthday, festival, marriage special by sending him your digital birthday wishes.
+To create your wishes, enter your name and receiver\'s name, </br>generate link and send this link to your friends.
 </div>
 </div>
 </div>
@@ -81,8 +81,8 @@ echo'
 </div>
 <div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/my-wishes">A Dark Night - Animation Story</a></span>
 </br>
-A dark night animation story with horror scenes.</br>
-An animation programmed in html css and javascript with a horror thunder sound.
+A dark night animation story with horror scenes.
+An animation programmed </br>in html css and javascript with a horror thunder sound.
 </div>
 </div>
 </div>
@@ -110,7 +110,7 @@ echo'
 </div>
 <div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/homeecart/index.php">Business to Business Dropship Model</a></span>
 </br>
-Dropshipping is a retail fulfillment method where a store doesn\'t keep the products in stock. Instead, when a store sells a product,</br> it purchases the item from a third party and has it shipped directly to the customer.</br> As a result, the merchant never sees or handles the product.
+Dropshipping is a retail fulfillment method where a store doesn\'t keep the products in stock. Instead, when a store sells a product, it purchases </br>the item from a third party and has it shipped directly to the customer. As a result, the merchant never sees or handles the product.
 </div>
 </div>
 </div>
@@ -125,7 +125,7 @@ echo'
 </div>
 <div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/bharatbazar/index.php">BharatBazar</a></span>
 </br>
-In today\'s busy lifestyle, pure</br> and genuine items have become out of reach and shopkeepers are evading taxes  and becoming rich.</br>At Bharat Bazaar we provide branded articles for daily use house hold items,</br> Kitchen Accessories, Grocery, Apparel all under one roof with bill.
+In today\'s busy lifestyle, pureand genuine items have become out of reach</br> and shopkeepers are evading taxes  and becoming rich.</br>At Bharat Bazaar we provide branded articles for daily use house hold items,</br> Kitchen Accessories, Grocery, Apparel all under one roof with bill.
 </div>
 </div>
 ';
