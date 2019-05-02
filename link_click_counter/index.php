@@ -155,12 +155,12 @@ timedmsg1();
 
 function timedmsg1(){
 var t1 = setTimeout("timedmsg2()" , 4000);
-document.getElementById("sitead").innerHTML = '<div style="color:white; text-align:center; margin-top:5px;">For any query or inquiry call us +919807264017 or mail us at rajatgupta200795@gmail.com.</div>';
+document.getElementById("sitead").innerHTML = '<div style="color:white; text-align:center; margin-top:5px;">For any query or inquiry call us +917081717420 or mail us at rajatgupta200795@gmail.com.</div>';
 }
 
 function timedmsg2(){
 var t2 = setTimeout("timedmsg3()" , 3000);
-document.getElementById("sitead").innerHTML = '<div style="color:white; text-align:center; margin-top:5px;">Get your own website today. Call +919807264017</div>';
+document.getElementById("sitead").innerHTML = '<div style="color:white; text-align:center; margin-top:5px;">Get your own website today. Call +917081717420</div>';
 }
 
 function timedmsg3(){
