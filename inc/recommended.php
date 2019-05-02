@@ -10,7 +10,7 @@ Only at $15</br>
 </div>
 <div style="height:130px; background-color:white; color:red; font-weight:bold;">
 Start Today
-<p style="font-size:15px; color:black;">naiudan16@gmail.com</p>
+<p style="font-size:15px; color:black;">rajatgupta200795@gmail.com</p>
 <marquee style="color:black; top:-20px; position:relative; " width="160" direction="right" SCROLLDELAY=100><span class="glyphicon glyphicon-hand-up"></span></marquee>
 </div>
 </div>
@@ -28,7 +28,7 @@ Only For $15/month</br>
 </div>
 <div style="height:100px; background-color:white; color:red; font-weight:bold;">
 mail us
-<p style="font-size:15px; color:black;top:-10px; position:relative;">naiudan16@gmail.com</p>
+<p style="font-size:15px; color:black;top:-10px; position:relative;">rajatgupta200795@gmail.com</p>
 <marquee style="color:black; top:-35px; position:relative; " width="160" behavior="alternate" direction="right" SCROLLDELAY=100><span class="glyphicon glyphicon-hand-up"></span></marquee>
 </div>
 </div>
