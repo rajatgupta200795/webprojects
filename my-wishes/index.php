@@ -40,9 +40,9 @@
 
 <p style="font-family: 'Josefin Slab', serif; font-size: 25px; font-weight: bold;">Who We Are ?</p>
 <p style="font-family: 'PT Sans Caption', sans-serif; font-size: 18px;">
-ewishes.online brings a new dimension to personal websites by creating a single destination to celebrate life's significant events online.
+Electronic Wishes brings a new dimension to personal websites by creating a single destination to celebrate life's significant events online.
 </br></br>
-With ewishes.online, users can quickly search and access any Wishes videos such as birthday, wedding, festival wishes and more.
+With electronic wishes, users can quickly search and access any Wishes videos such as birthday, wedding, festival wishes and more.
 </br></br>
 
 Our mission is to transform the way people share life's moments, by empowering them to connect in creative ways that bring joy into every Occassion.
