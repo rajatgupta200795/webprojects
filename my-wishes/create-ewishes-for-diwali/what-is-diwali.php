@@ -40,6 +40,6 @@ On the same night that Hindus celebrate Diwali, Jains celebrate a festival also 
 
 <p style="font-family: 'PT Sans Caption', sans-serif; font-size: 18px;">
 <b>Wishing You A Happy Diwali</br>
-ewishes.online Team
+EwishesTeam
 </b>
 </p>
