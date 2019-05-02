@@ -28,10 +28,10 @@
 <p id="newUserDetails" class="hidden" style=" z-index: 2; ">
     <div style="font-size: 20px; color: black; font-weight:bold;">
         <form>
-    Your Name : </br><input id="senderFname" type="text" name="" ng-model="senderName" value="{{}}" required>
+    Your Name : </br><input id="senderFname" type="text" name="" ng-model="senderName" value="" required>
     <p id="wrongFname"></p>
     </br>
-    Receiver Name :</br><input type="text" name="" ng-model="receiverName" value="{{}}"  required>
+    Receiver Name :</br><input type="text" name="" ng-model="receiverName" value=""  required>
     </br></br>
     <buttton type="submit" onclick="genLink()" class="btn btn-info btn-lg"><b>Generate Dhanteras Wishes</b></buttton>
     </form>
