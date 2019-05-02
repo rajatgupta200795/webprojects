@@ -253,9 +253,9 @@ echo'</div>
 
 
 <div class="row" style="margin-top:5px;">
-<div class="col-sm-2" style="font-size:26px; font-family:serif; line-height:22px;">
+<div class="col-sm-2" style="font-size:25px; font-family:serif; line-height:22px;">
 
-<b style="color:black; margin-top:8px;">DevOps Rider</b></br>
+<b style="color:black; margin-top:10px;">DevOps Rider</b></br>
 <a href="" style="font-size:16px; color:black; top:0px;">www.devopsrider.com</a>
 ';
 
