@@ -64,7 +64,7 @@ echo'
 <div class="row" style="font-size:15px;"><div class="col-sm-1"><span style="font-size:40px; color:#128ea2;" class="glyphicon glyphicon-fullscreen"></span>
 </div>
 <div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/my-wishes/index.php">Create Your Digital Wishes 
-For Your Friends (Under Construction)</a></span>
+For Your Friends</a></span>
 </br>
 Make your friends\' birthday, festival, marriage special by sending him your digital birthday wishes.</br>
 To create your wishes, enter your name and receiver\'s name, generate link and send this link to your friends.
