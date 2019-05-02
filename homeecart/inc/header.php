@@ -60,7 +60,7 @@ if($member_plan_code=='3') {$member_plan_name="<b style='color: #22ad6ccf;'>Diam
 <nav class="navbar navbar-default">
   <div class="container">
     <div class="navbar-header">
-      <a class="navbar-brand" href="#"><b>HomeEkart</b></a>
+      <a class="navbar-brand" href="http://www.devopsrider.com"><b>HomeEkart</b></a>
     </div>
     <ul class="nav navbar-nav navbar-right">
 <?php
