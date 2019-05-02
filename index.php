@@ -3,10 +3,10 @@
 echo'
 </br>
 <div class="row">
-<div class="col-sm-8" style="line-height:30px; font-size:25px;font-family:impact; color: purple;">
+<div class="col-sm-8" style="line-height:30px; font-size:medium;">
 ';
 
-echo'<b> "My Projects</b>
+echo'<b> <span style = "font-size:medium; font-family:impact; color: purple;"> My Projects </span></b>
 <hr>';
 
 
