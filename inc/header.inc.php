@@ -374,7 +374,7 @@ echo'<ul style="margin-left:150px;"><li><a href="/index.php"><span style="paddin
 <div class="row">
 <div class="col-sm-8">
 <li><a href="http://www.devopsrider.com/lovegame/index.php"><span>Play Love Game And Make Your Friends The Fool</span></a></li>
-<li><a href="http://www.devopsrider.com/game/index.php"><span>Play Cross Zero With Your Friend.</span></a></li>
+<li><a href="http://www.devopsrider.com/game/index.html"><span>Play Cross Zero With Your Friend.</span></a></li>
 </div>
 </div>
 <hr>
