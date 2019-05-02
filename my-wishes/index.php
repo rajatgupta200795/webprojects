@@ -23,9 +23,9 @@
 
 
 <div style="font-family: \'PT Sans Caption\', sans-serif; font-size: <?php if(isMobileDevice())echo'11';else echo'15';?>px;">
-    <b>Trending : </b> <a href="http://www.devopsrider.com/create-ewishes-for-diwali/index.php">Diwali ewishes</a> | 
-    <a href="http://www.devopsrider.com/create-ewishes-for-birth-day/index.php">Birthday ewishes</a> | 
-    <a href="http://www.devopsrider.com/create-best-of-luck-ewishes-for-job-interview/index.php">Job Interview ewishes</a></div>
+    <b>Trending : </b> <a href="http://www.devopsrider.com/my-wishes/create-ewishes-for-diwali/index.php">Diwali ewishes</a> | 
+    <a href="http://www.devopsrider.com/my-wishes/create-ewishes-for-birth-day/index.php">Birthday ewishes</a> | 
+    <a href="http://www.devopsrider.com/my-wishes/create-best-of-luck-ewishes-for-job-interview/index.php">Job Interview ewishes</a></div>
 <div style="margin-top: 12px; width: 96%; text-align: center; height: 2px; border-top: 1px solid #f3f3ee; background-color: #f7f7f7;"></div></br>
 
 
@@ -75,11 +75,11 @@ It's free and limitless.
         <b style="font-size: 25px; ">Festivals</b>
         <ul style="font-family: 'PT Sans', sans-serif; font-weight: normal;">
        <li> <a href="http://www.devopsrider.com/my-wishes/create-ewishes-for-diwali/index.php">Diwali Wishes</a></li>
-            <li><a href="http://www.devopsrider.com/create-ewishes-for-dhanteras/index.php">Dhanteras Wishes</a></li>
-            <li><a href="http://www.devopsrider.com/create-ewishes-for-narak-chaudas/index.php">Narak Chaudas Wishes</a></li>
-            <li><a href="http://www.devopsrider.com/create-ewishes-for-bhaiya-dooj/index.php">Bhai Dooj Wishes</a></li>
-            <li><a href="http://www.devopsrider.com/create-ewishes-for-guru-purnima/index.php">Guru Purnima Wishes</a></li>
-            <li><a href="http://www.devopsrider.com/create-ewishes-for-dussehra/index.php">Dussehra Wishes.</a></li>
+            <li><a href="http://www.devopsrider.com/my-wishes/create-ewishes-for-dhanteras/index.php">Dhanteras Wishes</a></li>
+            <li><a href="http://www.devopsrider.com/my-wishes/create-ewishes-for-narak-chaudas/index.php">Narak Chaudas Wishes</a></li>
+            <li><a href="http://www.devopsrider.com/my-wishes/create-ewishes-for-bhaiya-dooj/index.php">Bhai Dooj Wishes</a></li>
+            <li><a href="http://www.devopsrider.com/my-wishes/create-ewishes-for-guru-purnima/index.php">Guru Purnima Wishes</a></li>
+            <li><a href="http://www.devopsrider.com/my-wishes/create-ewishes-for-dussehra/index.php">Dussehra Wishes.</a></li>
            <!--
             <li><a href="">Holi Wishes.</a></li>
             <li><a href="">Rakshabandhan Wishes.</a></li>
@@ -92,9 +92,9 @@ It's free and limitless.
     <div class="col-sm-4" style="font-size: 17px;  text-align:left;">
         <b  style="font-size: 25px; ">Special Occasions</b>
         <ul style="font-family: 'PT Sans', sans-serif; font-weight: normal;">
-            <li><a href="http://www.devopsrider.com/create-ewishes-for-birth-day/index.php">Birthday Wishes.</a></li>
-            <li><a href="http://www.devopsrider.com/create-ewishes-for-new-year/index.php">New Year Wishes.</a></li>
-            <li><a href="http://www.devopsrider.com/create-ewishes-for-marriage-anniversary/index.php">Marriage Anniversary Wishes.</a></li>
+            <li><a href="http://www.devopsrider.com/my-wishes/create-ewishes-for-birth-day/index.php">Birthday Wishes.</a></li>
+            <li><a href="http://www.devopsrider.com/my-wishes/create-ewishes-for-new-year/index.php">New Year Wishes.</a></li>
+            <li><a href="http://www.devopsrider.com/my-wishes/create-ewishes-for-marriage-anniversary/index.php">Marriage Anniversary Wishes.</a></li>
         </ul>
         </br>
         
@@ -102,7 +102,7 @@ It's free and limitless.
     <div class="col-sm-4" style="font-size: 17px;  text-align:left;">
         <b  style="font-size: 25px; ">Best Of Luck</b>
         <ul style="font-family: 'PT Sans', sans-serif; font-weight: normal;">
-            <li><a href="http://www.devopsrider.com/create-best-of-luck-ewishes-for-job-interview/index.php">For Job Interview.</a></li>
+            <li><a href="http://www.devopsrider.com/my-wishes/create-best-of-luck-ewishes-for-job-interview/index.php">For Job Interview.</a></li>
         </ul>
         <!--<b  style="font-size: 25px; ">Congratulation Wishes</b>
         <ul style="font-family: 'PT Sans', sans-serif; font-weight: normal;">
