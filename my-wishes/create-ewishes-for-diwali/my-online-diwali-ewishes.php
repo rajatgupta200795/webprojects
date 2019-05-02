@@ -54,11 +54,11 @@ canvas {
     <div class="collapse navbar-collapse" id="myNavbar">
 
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="http://www.devopsrider.com/">Home</a></li>
-        <li><a href="http://www.devopsrider.com/#ewishes">Wishes</a></li>
-        <li><a href="http://www.devopsrider.com/#wishSong">Songs</a></li>
-        <li><a href="http://www.devopsrider.com/about-us.php">About</a></li>
-        <li><a href="http://www.devopsrider.com/contact-us.php">Contact</a></li>
+        <li><a href="http://www.devopsrider.com/my-wishes/">Home</a></li>
+        <li><a href="http://www.devopsrider.com/my-wishes/#ewishes">Wishes</a></li>
+        <li><a href="http://www.devopsrider.com/my-wishes/#wishSong">Songs</a></li>
+        <li><a href="http://www.devopsrider.com/my-wishes/about-us.php">About</a></li>
+        <li><a href="http://www.devopsrider.com/my-wishes/contact-us.php">Contact</a></li>
       </ul>
     </div>
   </div>
