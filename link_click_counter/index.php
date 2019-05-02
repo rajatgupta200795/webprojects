@@ -50,7 +50,7 @@ Password : <input type="password" class="form-control" name="pswd" placeholder="
 <h2 style="margin-left:2%; font-weight:;">Sign Up Below</h2></br>
 <form  class="navbar-form" method="POST" action="" enctype="multipart/form-data">
 <div class="form-group-sm">
-Full Name :&nbsp<input type="text" class="form-control" name="fname" placeholder="Enter Your Full Name" required></br></br>
+Full Name : &nbsp;<input type="text" class="form-control" name="fname" placeholder="Enter Your Full Name" required></br></br>
 E-mail : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" id="id_email" class="form-control" name="email" oninput="email_check()" onchange="email_check()"  placeholder="Enter Your Email" required></br>
 <p id="email_error">&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;</p>
 Password : &nbsp;<input type="password" class="form-control" name="password" placeholder="New Password (A-Z,a-z,0-9)" required></br></br>
