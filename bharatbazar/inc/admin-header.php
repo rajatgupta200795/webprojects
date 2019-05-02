@@ -1,6 +1,6 @@
 <?php
 ob_start();
-$con= new mysqli('localhost','root','','Rajat@20071995') or die("Could not connect to mysql".mysqli_error($con));
+$con= new mysqli('localhost','root','Rajat@20071995','bharatbazar') or die("Could not connect to mysql".mysqli_error($con));
 
 $query=$con->query("SELECT * FROM users WHERE  1=1");
 	$users_count=$query->num_rows;
