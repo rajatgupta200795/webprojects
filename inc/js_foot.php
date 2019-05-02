@@ -24,7 +24,7 @@ document.getElementById("sitead").innerHTML = '<div style="color:white; text-ali
 
 function timedmsg3(){
 var t3 = setTimeout("timedmsg1()" , 10000);
-document.getElementById("sitead").innerHTML = '<marquee SCROLLAMOUNT=10><div style="color:white; text-align:center; margin-top:5px;">If you have any issues related to our website, contact us now . Call us at +919807264017. Thank you for visiting our site.</div></marquee>';
+document.getElementById("sitead").innerHTML = '<marquee SCROLLAMOUNT=10><div style="color:white; text-align:center; margin-top:5px;">If you have any issues related to our website, contact us now . Call us at +917081717420. Thank you for visiting our site.</div></marquee>';
 }
 
 timedwish1();
