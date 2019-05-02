@@ -33,18 +33,18 @@ echo'
     <div style="font-family: \'Source Sans Pro\', sans-serif; font-size: 15px;  padding-left: 20px;">
         <div style="margin-top: 10px; width: 80%; text-align: center; height: 2px; border-top: 1px solid #f3f3ee; background-color: #f7f7f7;"></div></br>
         <b>Festivals</b></br>
-        <a href="http://www.ewishes.online/create-ewishes-for-diwali">Diwali Wishes</a></br>
-        <a href="http://www.ewishes.online/create-ewishes-for-dhanteras">Dhanteras Wishes</a></br>
-        <a href="http://www.ewishes.online/create-ewishes-for-narak-chaudas">Narak Chaudas Wishes</a></br>
-        <a href="http://www.ewishes.online/create-ewishes-for-bhaiya-dooj">Bhai Dooj Wishes</a></br>
-        <a href="http://www.ewishes.online/create-ewishes-for-guru-purnima">Guru Purnima Wishes</a></br>
-        <a href="http://www.ewishes.online/create-ewishes-for-dussehra">Dussehra Wishes</a></br>
+        <a href="http://www.devopsrider.com/create-ewishes-for-diwali">Diwali Wishes</a></br>
+        <a href="http://www.devopsrider.com/create-ewishes-for-dhanteras">Dhanteras Wishes</a></br>
+        <a href="http://www.devopsrider.com/create-ewishes-for-narak-chaudas">Narak Chaudas Wishes</a></br>
+        <a href="http://www.devopsrider.com/create-ewishes-for-bhaiya-dooj">Bhai Dooj Wishes</a></br>
+        <a href="http://www.devopsrider.com/create-ewishes-for-guru-purnima">Guru Purnima Wishes</a></br>
+        <a href="http://www.devopsrider.com/create-ewishes-for-dussehra">Dussehra Wishes</a></br>
         <div style="margin-top: 20px; width: 80%; text-align: center; height: 2px; border-top: 1px solid #f3f3ee; background-color: #f7f7f7;"></div></br>
 
         <b>Occasions</b></br>
-        <a href="http://www.ewishes.online/create-ewishes-for-birth-day">Birthday Wishes</a></br>
-        <a href="http://www.ewishes.online/create-ewishes-for-new-year">New Year Wishes</a></br>
-        <a href="http://www.ewishes.online/create-ewishes-for-marriage-anniversary">Marriage Anniversay Wishes</a></br>
+        <a href="http://www.devopsrider.com/create-ewishes-for-birth-day">Birthday Wishes</a></br>
+        <a href="http://www.devopsrider.com/create-ewishes-for-new-year">New Year Wishes</a></br>
+        <a href="http://www.devopsrider.com/create-ewishes-for-marriage-anniversary">Marriage Anniversay Wishes</a></br>
         <div style="margin-top: 20px; width: 80%; text-align: center; height: 2px; border-top: 1px solid #f3f3ee; background-color: #f7f7f7;"></div></br>
 
         <!--<b>Congratulations</b></br>
@@ -54,7 +54,7 @@ echo'
         <div style="margin-top: 20px; width: 80%; text-align: center; height: 2px; border-top: 1px solid #f3f3ee; background-color: #f7f7f7;"></div></br>
 -->
         <b>Best Of Luck</b></br>
-        <a href="http://www.ewishes.online/create-best-of-luck-ewishes-for-job-interview">For Job Interview</a></br>
+        <a href="http://www.devopsrider.com/create-best-of-luck-ewishes-for-job-interview">For Job Interview</a></br>
     </div>
 </div>
 ';
