@@ -88,7 +88,7 @@ An animation programmed in html css and javascript with a horror thunder sound.
 </div>
 ';
 
-</br>
+
 echo'
 </br>
 <div class="container-fluid">
