@@ -115,7 +115,7 @@ echo'<a href="logout.php" class="menu-link">Logout</a>';
 </div>
 <div style="height: 1px; width: 100%; background-color: lightgrey;"></div>
 <div class="row" style="padding :17px;">
-<div class="col-sm-2"><div style="font-size: 32px; font-family: 'Roboto Condensed', sans-serif;"> <b style="color:red">Bharat</b><b style="color:orange">Bazar</b></div>
+<div class="col-sm-2"><div style="font-size: 32px; font-family: 'Roboto Condensed',href="http://www.devopsrider.com/" sans-serif;"> <b style="color:red">Bharat</b><b style="color:orange">Bazar</b></div>
 </div>
 <div class="col-sm-10" onclick="border:10px solid grey;">
 
