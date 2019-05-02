@@ -1,5 +1,5 @@
 <?php
-$con= new mysqli('localhost','root','','homeecart') or die("Could not connect to mysql".mysqli_error($con));
+$con= new mysqli('localhost','root','','Rajat@20071995') or die("Could not connect to mysql".mysqli_error($con));
 
 if(!isset($_COOKIE['admin_login']))
 header("location:index.php");
