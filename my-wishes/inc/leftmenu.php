@@ -33,7 +33,7 @@ echo'
     <div style="font-family: \'Source Sans Pro\', sans-serif; font-size: 15px;  padding-left: 20px;">
         <div style="margin-top: 10px; width: 80%; text-align: center; height: 2px; border-top: 1px solid #f3f3ee; background-color: #f7f7f7;"></div></br>
         <b>Festivals</b></br>
-        <a href="http://www.devopsrider.com/create-ewishes-for-diwali/index.php">Diwali Wishes</a></br>
+        <a href="my-wishes/create-ewishes-for-diwali/index.php">Diwali Wishes</a></br>
         <a href="http://www.devopsrider.com/create-ewishes-for-dhanteras">Dhanteras Wishes</a></br>
         <a href="http://www.devopsrider.com/create-ewishes-for-narak-chaudas">Narak Chaudas Wishes</a></br>
         <a href="http://www.devopsrider.com/create-ewishes-for-bhaiya-dooj">Bhai Dooj Wishes</a></br>
