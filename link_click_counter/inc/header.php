@@ -18,7 +18,7 @@ if(($date_time ==12 ||  $date_time ==1) && $time_check=="am") $wish = "GOOD EVEN
 
 <html>
 <head>
-<title>Web Analyser - naiudan</title>
+<title>Web Analyser </title>
 
 <meta name="description" content="A online free link click optimizer to count unique and total clicks , visiter's IP , State , Country , Continent...a naiudan.com product...Create free account and start free optimization...."/>
 
