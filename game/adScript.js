@@ -35,7 +35,7 @@
 	}
 
 				function timedMsg6(){
-   document.getElementById('myDiv').innerHTML = '<div style="font-family: Paytone one, Open Sans, Lato   ; font-size: 26px; text-align: center; color: #ff5252; background-color: white; margin-top:15px; "><b style="color:#488273;">Start From Today </b></br> We\'ll create free set up for your Advertise </br> <span style="font-size:20px; color:#488273;;">Call At +919807264017</span></div>';
+   document.getElementById('myDiv').innerHTML = '<div style="font-family: Paytone one, Open Sans, Lato   ; font-size: 26px; text-align: center; color: #ff5252; background-color: white; margin-top:15px; "><b style="color:#488273;">Start From Today </b></br> We\'ll create free set up for your Advertise </br> <span style="font-size:20px; color:#488273;;">Call At +917081717420</span></div>';
 		var t3 = setTimeout(timedMsg7 , 2000);
 
 	}
@@ -46,6 +46,6 @@
 	}
 
   				function timedMsg8(){
-   document.getElementById('myDiv').innerHTML = '<div style="font-size:40px;color:black; margin-top:20px; text-align:center">Powered By naiudan.com<div style="font-size:15px;">Developed By Rajat Gupta (Call to hire me for web develepment: +919807264017)</div></div>';
+   document.getElementById('myDiv').innerHTML = '<div style="font-size:40px;color:black; margin-top:20px; text-align:center">Powered By Devopsrider.com<div style="font-size:15px;">Developed By Rajat Gupta (Call to hire me for web develepment: +917081717420</div></div>';
 		var t3 = setTimeout(timedMsg1 , 2000);
 	}
