@@ -95,10 +95,9 @@ echo'
 
 <div class="row" style="font-size:15px;"><div class="col-sm-1"><span style="font-size:50px; color: #5814c5;" class="glyphicon glyphicon-book"></span>
 </div>
-<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/current-indian-polity/general-science.php">Curent Indian Polity</a></span>
+<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/school/index.php">School Website</a></span>
 </br>
-Learn about current Indian polity and all cabinet member of Indian Government . </br>
-Keep updated yourself for competitive exams like bank/PO/IBPS/railway/ias/pcs/SSC/cgl.
+A school is an educational institution designed to provide learning spaces </br> and learning environments for the teaching of students under the direction of teachers. 
 </div>
 </div>
 </div>
@@ -107,12 +106,11 @@ Keep updated yourself for competitive exams like bank/PO/IBPS/railway/ias/pcs/SS
 echo'
 </br>
 <div class="container-fluid">
-<div class="row" style="font-size:15px;"><div class="col-sm-1"><span style="font-size:50px; color: #b7a133;" class="glyphicon glyphicon-user"></span>
+<div class="row" style="font-size:15px;"><div class="col-sm-1"><span style="font-size:50px; color: #b7a133;" class="glyphicon glyphicon-shopping-cart"></span>
 </div>
-<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/biography.php">Read Biography Of Famous Face</a></span>
+<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/homeecart/index.php">Business to Business Dropship Model</a></span>
 </br>
-Read biography of famous from world . </br>
-Narendra-Modi/Sonia-Gandhi/P.V.-Sindhu/Sakshi-Malik/Hafiz-Muhammad-Saeed/Ravindrababu-Ravula/Kim-Jong-un/Sunder-Pichai/Atal-Bihari-Bajpai
+Dropshipping is a retail fulfillment method where a store doesn\'t keep the products in stock. Instead, when a store sells a product,</br> it purchases the item from a third party and has it shipped directly to the customer.</br> As a result, the merchant never sees or handles the product.
 </div>
 </div>
 </div>
@@ -123,13 +121,11 @@ Narendra-Modi/Sonia-Gandhi/P.V.-Sindhu/Sakshi-Malik/Hafiz-Muhammad-Saeed/Ravindr
 echo'
 </br>
 <div class="container-fluid">
-<div class="row" style="font-size:15px;"><div class="col-sm-1"><span style="font-size:50px; color:black;" class="glyphicon glyphicon-phone"></span>
+<div class="row" style="font-size:15px;"><div class="col-sm-1"><span style="font-size:50px; color:black;" class="glyphicon glyphicon-shopping-cart"></span>
 </div>
-<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/whatsup/">Whatsapp Entertainment - Hindi Jokes , Shayari , Stories.</a></span>
+<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/bharatbazar/index.php">BharatBazar</a></span>
 </br>
-Read funny veg/non-veg jokes , shayari , short stories in Hindi.</br>
-Enjoy funny jokes of gf/bf , husband/wife , santa/banta/pappu and share with your friends.
-</div>
+In today\'s busy lifestyle, pure</br> and genuine items have become out of reach and shopkeepers are evading taxes  and becoming rich.</br>At Bharat Bazaar we provide branded articles for daily use house hold items,</br> Kitchen Accessories, Grocery, Apparel all under one roof with bill.
 </div>
 </div>
 ';
