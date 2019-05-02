@@ -245,7 +245,7 @@ echo'</div>
 <span style="margin-left:0px;padding-bottom:1px; padding-top:1px; font-size:12px; background-color: #448aff;">
 <a href="http://www.devopsrider.com/link_click_counter/index.php" style="color: white;" >Click Optimizer</a> &nbsp; | &nbsp; 
 <a href="/current-indian-polity/general-science.php" style="color:white;">Current Indian Polity</a> &nbsp;|&nbsp; 
-<a href="../n/lovegame/" style="color:white;">Love Game</a> &nbsp;|&nbsp; 
+<a href="../lovegame/index.php" style="color:white;">Love Game</a> &nbsp;|&nbsp; 
 <a href="https://www.facebook.com/Technical-Friend-741984279311981/" style="padding:4px; color: white;" >Like Our Facebook Page</a><div class="fb-like" data-href="https://www.facebook.com/Technical-Friend-741984279311981/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
 
 </span>
