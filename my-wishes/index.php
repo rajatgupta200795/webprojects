@@ -74,7 +74,7 @@ It's free and limitless.
     <div class="col-sm-4" style="font-size: 17px; text-align:left;">
         <b style="font-size: 25px; ">Festivals</b>
         <ul style="font-family: 'PT Sans', sans-serif; font-weight: normal;">
-            <li><a href="http://www.devopsrider.com/create-ewishes-for-diwali/index.php">Diwali Wishes.</a></li>
+            <li><a href="my-wishes/create-ewishes-for-diwali/index.php">Diwali Wishes.</a></li>
             <li><a href="http://www.devopsrider.com/create-ewishes-for-dhanteras">Dhanteras Wishes</a></li>
             <li><a href="http://www.devopsrider.com/create-ewishes-for-narak-chaudas">Narak Chaudas Wishes</a></li>
             <li><a href="http://www.devopsrider.com/create-ewishes-for-bhaiya-dooj">Bhai Dooj Wishes</a></li>
