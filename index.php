@@ -87,14 +87,16 @@ An animation programmed in html css and javascript with a horror thunder sound.
 </div>
 </div>
 ';
-
+echo'
+</br>
+<b>Blog and Entertainment</b>
+<hr>';
 
 echo'
 </br>
 <div class="container-fluid">
-<div class="row" style="font-size:15px;"><div class="col-sm-1"><span style="font-size:50px; color: #5814c5;" <i class='fas fa-user-graduate'></i>"></span>
 
-//<div class="row" style="font-size:15px;"><div class="col-sm-1"><span style="font-size:50px; color: #5814c5;" class="glyphicon glyphicon-book"></span>
+<div class="row" style="font-size:15px;"><div class="col-sm-1"><span style="font-size:50px; color: #5814c5;" class="glyphicon glyphicon-book"></span>
 </div>
 <div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/current-indian-polity/general-science.php">Curent Indian Polity</a></span>
 </br>
