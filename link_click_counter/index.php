@@ -50,7 +50,7 @@ Password : <input type="password" class="form-control" name="pswd" placeholder="
 <h2 style="margin-left:2%; font-weight:;">Sign Up Below</h2></br>
 <form  class="navbar-form" method="POST" action="" enctype="multipart/form-data">
 <div class="form-group-sm">
-Full Name :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" class="form-control" name="fname" placeholder="Enter Your Full Name" required></br></br>
+Full Name :&nbsp;&nbsp;&nbsp;<input type="text" class="form-control" name="fname" placeholder="Enter Your Full Name" required></br></br>
 E-mail : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" id="id_email" class="form-control" name="email" oninput="email_check()" onchange="email_check()"  placeholder="Enter Your Email" required></br>
 <p id="email_error">&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;</p>
 Password : &nbsp;<input type="password" class="form-control" name="password" placeholder="New Password (A-Z,a-z,0-9)" required></br></br>
@@ -165,7 +165,7 @@ document.getElementById("sitead").innerHTML = '<div style="color:white; text-ali
 
 function timedmsg3(){
 var t3 = setTimeout("timedmsg1()" , 10000);
-document.getElementById("sitead").innerHTML = '<marquee SCROLLAMOUNT=10><div style="color:white; text-align:center; margin-top:5px;">If you have any issues related to our website, contact us now . Call us at +919807264017. Thank you for visiting our site.</div></marquee>';
+document.getElementById("sitead").innerHTML = '<marquee SCROLLAMOUNT=10><div style="color:white; text-align:center; margin-top:5px;">If you have any issues related to our website, contact us now . Call us at +917081717420. Thank you for visiting our site.</div></marquee>';
 }
 
 timedwish1();
