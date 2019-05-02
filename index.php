@@ -165,7 +165,7 @@ ob_end_flush();
         function setTime()
         {
             totalWidth+=1;
-            if(totalWidth<200)
+            if(totalWidth<250)
             widthLabel.style.width = totalWidth+'px';
             else if(totalWidth<600)
             widthLabel.style.height = totalWidth+'px';
@@ -174,7 +174,7 @@ ob_end_flush();
 
 	function timedMsg1(){
 
-		document.getElementById('myDiv').innerHTML = '<marquee direction="down" scrollamount="16"><div style="font-family: Paytone one, Open Sans, Lato   ;  font-size: 23px; height:290px; text-align: center; color: #ff5252; background-color: white;">Put Your Advertise Here </div></marquee>'; 
+		document.getElementById('myDiv').innerHTML = '<marquee direction="down" scrollamount="18"><div style="font-family: Paytone one, Open Sans, Lato   ;  font-size: 23px; height:290px; text-align: center; color: #ff5252; background-color: white;">Put Your Advertise Here </div></marquee>'; 
 		var t1 = setTimeout(timedMsg2 , 2450);
 
 	}
