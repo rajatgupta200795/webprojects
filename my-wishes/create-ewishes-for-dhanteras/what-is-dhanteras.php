@@ -52,6 +52,6 @@ In villages, cattle are adorned and worshiped by farmers as they form the main s
 
 <p style="font-family: 'PT Sans Caption', sans-serif; font-size: 18px;">
 <b>Wishing You A Happy Dhanteras</br>
-ewishes.online Team
+Ewishes Team
 </b>
 </p>
