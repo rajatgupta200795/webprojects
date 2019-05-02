@@ -6,7 +6,7 @@ echo'
 <div class="col-sm-8" style="line-height:30px; font-size:medium;">
 ';
 
-echo'<b> <span style = "font-size:medium; font-family:impact; color: purple;"> My Projects </span></b>
+echo'<b> <span style = "font-size:40px; font-family:impact; color: black;"> My Projects </span></b>
 <hr>';
 
 
