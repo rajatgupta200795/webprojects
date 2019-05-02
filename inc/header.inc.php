@@ -39,7 +39,7 @@ else
 
     <meta name="viewport" content="width=400">
 
-    <meta name="description" content="<?php if($_GET['meta_description']!="")echo$_GET['meta_description']; else echo'A multi purpose entertainmeting website having educational blog , games , love tools and free software corner.'; ?>">
+    <meta name="description" content="<?php if($_GET['meta_description']!="")echo$_GET['meta_description']; else echo'A multi purpose entertainmenting website having educational blog , games , love tools and free software corner.'; ?>">
 
 <script type="text/javascript">
 		
@@ -253,7 +253,7 @@ echo'</div>
 
 
 <div class="row" style="margin-top:5px;">
-<div class="col-sm-2" style="font-size:30px; font-family:serif; line-height:20px;">
+<div class="col-sm-2" style="font-size:25px; font-family:serif; line-height:20px;">
 
 <b style="color:black; margin-top:5px;">DevOps Rider</b></br>
 <a href="" style="font-size:16px; color:black; top:0px;">www.devopsrider.com</a>
