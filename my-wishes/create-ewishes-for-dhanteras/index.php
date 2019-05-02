@@ -36,7 +36,7 @@
     <buttton type="submit" onclick="genLink()" class="btn btn-info btn-lg"><b>Generate Dhanteras Wishes</b></buttton>
     </form>
     </br>
-    <a href="http://www.devopsrider.com/my-wishes/inc/leftmenu.php" style="font-size:23px; color:red;">Create wishes for another occasion.</a>
+    <a href="http://www.devopsrider.com/my-wishes/index.php" style="font-size:23px; color:red;">Create wishes for another occasion.</a>
     </div>
 </p>
 <!--
