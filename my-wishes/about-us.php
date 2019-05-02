@@ -28,9 +28,9 @@
 
 <p style="font-family: 'Josefin Slab', serif; font-size: 25px; font-weight: bold;">Who We Are ?</p>
 <p style="font-family: 'PT Sans Caption', sans-serif; font-size: 18px;">
-Ewishes brings a new dimension to personal websites by creating a single destination to celebrate life's significant events online.
+Digital Ewishes brings a new dimension to personal websites by creating a single destination to celebrate life's significant events online.
 </br></br>
-With ewishes.online, users can quickly search and access any Wishes videos such as birthday, wedding, festival wishes and more.
+With digital ewishes, users can quickly search and access any Wishes videos such as birthday, wedding, festival wishes and more.
 </br></br>
 
 Our mission is to transform the way people share life's moments, by empowering them to connect in creative ways that bring joy into every Occassion.
@@ -46,11 +46,11 @@ This website was started to be developed on 10 October 2017. This website is dev
 
 If you have any query regarding to website, you can mail to Rajat Gupta at <a href="https://gmail.com">guptarajat20071995@gmail.com</a> .</br></br>
 
-Rajat Gupta is also intrested in any other web development activity. So if you want to hire him , Please feel free to mail . 
+Rajat Gupta is also interested in any other web development activity. So if you want to hire him , Please feel free to mail . 
 </br></br></br></br>
 
 <b>Thank You</br>
-ewishes.online Team
+Digital ewishes Team
 </b>
 </p>
 </p>
