@@ -1,36 +1,71 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>My Wish To You</title>
+    <title>See my Happy Choti Diwali (Narak Chaudas) messgage and video for you.</title>
+    <meta charset="utf-8">
+    <meta name="description" content="Send online wishes to your friends, girlfriend, relative by sendting them your ewishes.">
+
+<meta name="viewport" content="width=500">
 
 
-<link href="https://fonts.googleapis.com/css?family=Josefin+Slab|Hind|Raleway|Poppins" rel="stylesheet">
+<link rel="stylesheet" href="http://www.ewishes.online/css/bootstrap.min.css">
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link href="http://www.ewishes.online/css/google_font_code.css?family=Josefin+Slab|Hind|Raleway|Poppins|Pangolin|Source+Sans+Pro|PT+Sans+Caption|Oswald|PT+Sans" rel="stylesheet">
 
+<script src="https://ajax.googleapis.com/ajax/libs/seangularjs/1.6.4/angular.min.js"></script>
 
-	<style type="text/css">
-		body, html {
-    background-color: #000;
-    color: #fff;
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js" async></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" async></script>
+
+<style>
+    a:hover{
+        text-decoration:none;
+        color: red;
+    }
+
+        body, html {
     width: 100%;
-    height: 100%;
+    height: 70%;
     margin: 0;
     padding: 0;
-    overflow: hidden;
 }
 canvas {
     position:absolute;
-    top:0;
-    left:0
+    top:100px;
+    left:-10px;
 }
-	</style>
-	
-<meta charset="utf-8">
+</style>
 
-	
+
 </head>
-<body style="overflow: hidden;">
+<body style="background-color: white; overflow-x: hidden;"  ng-app="" >
+
+
+<nav class="navbar navbar-default" style="padding: 10px; font-family: 'Josefin Slab', serif; font-size: 20px; font-weight: bold;">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="http://www.ewishes.online" style="font-size: 30px;">ewishes.online</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="http://www.ewishes.online/">Home</a></li>
+        <li><a href="http://www.ewishes.online/#ewishes">Wishes</a></li>
+        <li><a href="http://www.ewishes.online/#wishSong">Songs</a></li>
+        <li><a href="http://www.ewishes.online/about-us.php">About</a></li>
+        <li><a href="http://www.ewishes.online/contact-us.php">Contact</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+<?php include "../../inc/leftmenu.php";?>
 
 
 
@@ -39,52 +74,60 @@ canvas {
 sender = ((window.location.search).substring(1)).split("-sent-a-wish-to-")[0];
 receiver = ((window.location.search).substring(1)).split("-sent-a-wish-to-")[1];
 
-    myAudio = new Audio('sound.mp3'); 
-if (typeof myAudio.loop == 'boolean')
-{
-    myAudio.loop = true;
-}
-else
-{
-    myAudio.addEventListener('ended', function() {
-        this.currentTime = 0;
-        this.play();
-    }, false);
-}
-myAudio.play();
-
-
 </script>
 
+</br></br>
 
 
-
-<div style=" position: absolute; top:30px; text-align: center; color: white; left: 16%;">
-<p style="font-size: 35px;font-family: 'Josefin Slab', serif;"><script type="text/javascript">document.write((sender.substring(0,1).toUpperCase()+sender.substring(1)).split("%20")[0])</script> is Wishing you</p>
-<p style="font-family: 'Raleway', sans-serif; font-size: 50px;">Happy Diwali <script type="text/javascript">document.write((receiver.substring(0,1).toUpperCase()+receiver.substring(1)).split("%20")[0])</script>
+<div style="top:30px; text-align: center; color: ; left: 16%;">
+<p style="font-size: 35px;font-family: 'Josefin Slab', serif;"><script type="text/javascript">document.write('<a id="senderColorId">'+(sender.substring(0,1).toUpperCase()+sender.substring(1)).split("%20")[0]+'</a>')</script> is Wishing you</p>
+<p style="font-family: 'Raleway', sans-serif; font-size: 50px;" id="festColorId">Happy Narak Chaudas <script type="text/javascript">document.write((receiver.substring(0,1).toUpperCase()+receiver.substring(1)).split("%20")[0])</script>
 
 </br>
 
-<div style=" text-align: center; font-family: 'Poppins', sans-serif; font-size: 20px;">
-झिलमिलाते दीपों की
-रोशनी से प्रकाशित
-ये दीपावली आपके
-घर में
-सुख समृद्धि और
-आशीर्वाद ले कर आए
-शुभ दीपावली!
+<div style=" font-family: 'Poppins', sans-serif; font-size: 20px;">
+पूजा से भरी थाली है,
+चारों ओर खुशहाली है,
+आओ मिलके मनाये ये दिन,
+आज छोटी दिवाली है ।
+
 </div>
+
+</p>
+</div>
+
+</br></br>
+    
+<div style="text-align:center;">
+    
+
+   <div style="top:30px; text-align: center; color:; left: 16%;">
+  <p style="font-size: 25px; font-family: 'Josefin Slab', serif; font-weight: bold; font-weight:bold;"><script type="text/javascript">document.write((sender.substring(0,1).toUpperCase()+sender.substring(1)).split("%20")[0])</script>   sent a video for you. </p>  </div>
+    
+  <p style="font-family: 'Josefin Slab', serif; font-weight: bold; font-weight:bold;">
+<iframe width="370" height="210" src="https://www.youtube.com/embed/s5W_QiuFjgo" frameborder="4" allowfullscreen></iframe>
+</br></br> 
+Copy and share this link : <b style="font-size: 25px;"><a href="https://youtu.be/s5W_QiuFjgo">https://youtu.be/s5W_QiuFjgo</a></b></br>
+<div style="font-size: 17px;">Just copy this link and send it to your friends, relatives to wish them <b>A HAPPY Narak Chaudas.</b></div> 
+</p> 
+
+</br></br></br> 
+
+<div style="text-align: center; font-family: 'Raleway', sans-serif; font-size: 36px; color: orange;">
+<p style="padding: 10px;">Create your wishes for someone.</p>
+<a href="index.php"  class="btn btn-danger btn-lg"  style="z-index: 2; position: absolute; margin-left: -80px;" onclick="newUser();">Create My Wish</a>
+
+</div> 
 
 </br></br></br>
 
-<div style=" text-align: center; font-family: 'Raleway', sans-serif; font-size: 36px; color: orange;">
-Create your wish for someone.
-</br></br>
-<a href="create-digital-wishes-for-diwali.html"  class="btn btn-primary btn-lg"  style="z-index: 2; position: absolute; margin-left: -80px;" onclick="newUser();">Click Here</a>
+<hr style="width: 98%; text-align: center; height: 2px; border-top: 1px solid #f3f3ee; background-color: #f7f7f7;">
 
+</br></br></br>
 </div>
-</p>
-</div>
+
+</br> 
+
 
 <script type="text/javascript">
     
@@ -311,13 +354,6 @@ setTimeout(function () {
     vanishPointX = width / 2;
     render();
 }, 500);
-</script>
+</script>   
 
-
-
-
-
-
-</body>
-</html>
-
+<?php include "../inc/footer.php";?>
