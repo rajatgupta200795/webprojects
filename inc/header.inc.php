@@ -368,7 +368,7 @@ echo'<ul style="margin-left:150px;"><li><a href="/index.php"><span style="paddin
 <li><a href="videos.php"><span>Television Drama</span></a></li>
 <hr>
 </ul>
-</li>--><li><a href="http://www.devopsrider.com/game/index.php"><span style="padding:7px;padding-left:17px; padding-right:17px; font-size:15px; color:white; font-weight:bold; background-color: #4682B4;" onmouseover="this.style.background=\'#f0f0f0\'; this.style.color=\'black\'; this.style.decoration=\'none\';" onmouseout="this.style.background=\'#4682B4\'; this.style.color=\'white\';" >Games</span></a>
+</li>--><li><a href="http://www.devopsrider.com/game/index.html"><span style="padding:7px;padding-left:17px; padding-right:17px; font-size:15px; color:white; font-weight:bold; background-color: #4682B4;" onmouseover="this.style.background=\'#f0f0f0\'; this.style.color=\'black\'; this.style.decoration=\'none\';" onmouseout="this.style.background=\'#4682B4\'; this.style.color=\'white\';" >Games</span></a>
 <ul class="dropdown">
 <center style="color:black; font-weight:bold; font-size:20px;">Games</center><hr>
 <div class="row">
