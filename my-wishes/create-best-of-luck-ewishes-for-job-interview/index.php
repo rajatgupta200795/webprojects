@@ -22,7 +22,7 @@
 </br>
 
 <div style="text-align: center; color: ; font-family: 'Josefin Slab', serif; font-weight: bold; padding: 0px;">
-	
+    
 <p style="font-size: 30px;">Create Best Of Luck Wishes</p>
 </br></br>
 <p id="newUserDetails" class="hidden" style=" z-index: 2; ">
@@ -38,13 +38,13 @@
     echo'<buttton type="submit" onclick="genLink()" class="btn btn-success btn-lg"><b>Create Best Of Luck Wishes</b></buttton>';
     else{
         echo'<a href="https://api.whatsapp.com/send?text=touch this blue line and see magic
-         ðŸ‘‰ http://www.ewishes.online/create-ewishes-for-job-interview/my-online-best-of-luck-ewishes-for-job-interview.php?{{senderName}}-sent-a-wish-to-" class="btn btn-success btn-lg" style="font-family:arial;">Share on Whatsapp</a>';
+         ðŸ‘‰ http://www.devopsrider.com/create-ewishes-for-job-interview/my-online-best-of-luck-ewishes-for-job-interview.php?{{senderName}}-sent-a-wish-to-" class="btn btn-success btn-lg" style="font-family:arial;">Share on Whatsapp</a>';
         }
         ?>
         
     </form>
     </br></br>
-    <a href="http://www.ewishes.online" style="font-size:23px; color:grey;">Create wishes for another occasion.</a>
+    <a href="http://www.devopsrider.com" style="font-size:23px; color:grey;">Create wishes for another occasion.</a>
     </div>
 </p>
 
@@ -75,9 +75,9 @@ Copy and share this link : <b style="font-size: 20px;"><a href="https://www.yout
 <div class="hidden" id="generateLink" style="text-align: center; position: absolute; color:white; top:90px; margin-left: 5%; padding: 30px; font-size: 25px; background-color: black; width: 80%; height: auto;">
         <button class="btn btn-danger" onclick="hideLink()" style="margin-left: <?php  if(isMobileDevice())echo'200';else echo'580'; ?>px; color:white; padding:5px;width:40px; height:40px; font-size:17px;; background-color:red;">X</button></br></br>
 
-	<div class="copyMssgClass" id="copyMssg">Press the Copy Button.</div>
-	
-	<div style="padding: 20px; font-size: 15px;">
+    <div class="copyMssgClass" id="copyMssg">Press the Copy Button.</div>
+    
+    <div style="padding: 20px; font-size: 15px;">
 <p id="showLink"></p>
 
 <p class="hidden" id="linkCopied"style="font-size:20px;"><button class="btn btn-success btn-lg">Wishes Copied</button></br></br> Your  Best Of Luck wishes has been copied, now please share it.</p>
@@ -86,16 +86,16 @@ Copy and share this link : <b style="font-size: 20px;"><a href="https://www.yout
 
 <script type="text/javascript">
 
-		document.getElementById('showLink').innerHTML = '<a id="textLink" style="background-color:white; padding:5px;" href="my-online-best-of-luck-ewishes-for-job-interview.php?{{senderName}}-sent-a-wish-to-" style="font-size:15px;">http://www.ewishes.online/create-ewishes-for-job-interview/my-online-best-of-luck-ewishes-for-job-interview.php?{{senderName}}-sent-a-wish-to-</a></br></br></br> <button class="btn btn-primary btn-lg" onClick="copyToClipboard()">Copy</button>';	
-		
-		
-		function copyToClipboard() {
-	
+        document.getElementById('showLink').innerHTML = '<a id="textLink" style="background-color:white; padding:5px;" href="my-online-best-of-luck-ewishes-for-job-interview.php?{{senderName}}-sent-a-wish-to-" style="font-size:15px;">http://www.devopsrider.com/create-ewishes-for-job-interview/my-online-best-of-luck-ewishes-for-job-interview.php?{{senderName}}-sent-a-wish-to-</a></br></br></br> <button class="btn btn-primary btn-lg" onClick="copyToClipboard()">Copy</button>';  
+        
+        
+        function copyToClipboard() {
+    
    text = document.getElementById("textLink");
-	
-	document.getElementById('showLink').setAttribute("class","hidden");
-	document.getElementById('copyMssg').setAttribute("class","hidden");
-	document.getElementById('linkCopied').setAttribute("class","linkCopiedClass");
+    
+    document.getElementById('showLink').setAttribute("class","hidden");
+    document.getElementById('copyMssg').setAttribute("class","hidden");
+    document.getElementById('linkCopied').setAttribute("class","linkCopiedClass");
 
     if (window.clipboardData && window.clipboardData.setData) {
         // IE specific code path to prevent textarea being shown while dialog is visible.
@@ -121,7 +121,7 @@ Copy and share this link : <b style="font-size: 20px;"><a href="https://www.yout
 
 </script>
 
-	</div>
+    </div>
 </div>
 
 
@@ -129,17 +129,17 @@ Copy and share this link : <b style="font-size: 20px;"><a href="https://www.yout
 
 function genLink(){
     if(document.getElementById('senderFname').value!='Your First Name'){
-	document.getElementById('generateLink').setAttribute("class","actions_one");
+    document.getElementById('generateLink').setAttribute("class","actions_one");
     document.getElementById('wrongFname').innerHTML = '';
     }
-	else document.getElementById('wrongFname').innerHTML = '<div style="color:red;">Please enter your first name.</div>';
+    else document.getElementById('wrongFname').innerHTML = '<div style="color:red;">Please enter your first name.</div>';
 }
 function hideLink(){
-	document.getElementById('generateLink').setAttribute("class","hidden");
+    document.getElementById('generateLink').setAttribute("class","hidden");
 
     document.getElementById('showLink').setAttribute("class","showLinkClass");
-	document.getElementById('copyMssg').setAttribute("class","copyMssgClass");
-	document.getElementById('linkCopied').setAttribute("class","hidden");
+    document.getElementById('copyMssg').setAttribute("class","copyMssgClass");
+    document.getElementById('linkCopied').setAttribute("class","hidden");
 }
 </script>
 
