@@ -46,7 +46,7 @@ $('#location').bind('input', function(){
            if(query != '')  
            {  
                 $.ajax({  
-                     url:"city_state_query.php",  
+                     url:"./inc/city_state_query.php",  
                      method:"POST",  
                      data:{query:query},  
                      success:function(data)  
@@ -57,7 +57,7 @@ $('#location').bind('input', function(){
                 });  
            }else{  
                 $.ajax({  
-                     url:"city_state_query.php",  
+                     url:"./inc/city_state_query.php",  
                      method:"POST",  
                      data:{query:query},  
                      success:function(data)  
