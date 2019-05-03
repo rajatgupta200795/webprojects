@@ -14,7 +14,7 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="./img/img2.jpg" alt="Mahaveer Convent School">
+      <img src="../img/img2.jpg" alt="Mahaveer Convent School">
       <div class="carousel-caption">
         <h3>Welcome To Mahaveer Convent School</h3>
       
@@ -22,7 +22,7 @@
     </div>
 
     <div class="item">
-      <img  src="./img/img3.jpg" alt="Mahaveer Convent School">
+      <img  src="../img/img3.jpg" alt="Mahaveer Convent School">
       <div class="carousel-caption">
         <h2>Class Room</h2>
         <p></p>
@@ -30,7 +30,7 @@
     </div>
 
      <div class="item">
-      <img  src="./img/img4.jpg" alt="Mahaveer Convent School">
+      <img  src="../img/img4.jpg" alt="Mahaveer Convent School">
       <div class="carousel-caption">
         <h2>Class Room</h2>
         <p></p>
@@ -38,7 +38,7 @@
     </div>
 
     <div class="item">
-      <img  src="./img/img5.jpg" alt="Mahaveer Convent School">
+      <img  src="../img/img5.jpg" alt="Mahaveer Convent School">
       <div class="carousel-caption">
         <h2>Play Ground</h2>
         <p>Large Play Ground To Play</p>
