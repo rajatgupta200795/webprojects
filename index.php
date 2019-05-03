@@ -128,6 +128,7 @@ echo'
 In today\'s busy lifestyle, pure and genuine items have become out of reach</br> and shopkeepers are evading taxes  and becoming rich.</br>At Bharat Bazaar we provide branded articles for daily use house hold items,</br> Kitchen Accessories, Grocery, Apparel all under one roof with bill.
 </div>
 </div>
+</div>
 ';
 
 
