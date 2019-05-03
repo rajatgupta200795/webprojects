@@ -79,7 +79,7 @@ echo'
 <div class="container-fluid">
 <div class="row" style="font-size:15px;"><div class="col-sm-1"><span style="font-size:40px; color:#12a212;" class="glyphicon glyphicon-film"></span>
 </div>
-<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/my-wishes">A Dark Night - Animation Story</a></span>
+<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/amovie/movie.html">A Dark Night - Animation Story</a></span>
 </br>
 A dark night animation story with horror scenes.
 An animation programmed </br>in html css and javascript with a horror thunder sound.
