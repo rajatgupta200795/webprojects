@@ -232,12 +232,12 @@ echo'</div>
 <?php if(isMobileDevice())
 echo'<div class="row"><div class="col-sm-1"></div>
   <div class="col-xs-9"><div class="link_change" >&nbsp;&nbsp;&nbsp;&nbsp;<a href="../index.php" class"active" style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Home</b></a> 
-  &nbsp;&nbsp;&nbsp;&nbsp; <a href="../student/" style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Student</b></a> 
-  &nbsp;&nbsp;&nbsp;&nbsp;  <a href="../faculity_details.php"><b>Faculty</b></a>   
-  &nbsp;&nbsp;&nbsp;&nbsp; <a href="../fee_structure.php" style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Fee Structure</b></a>  
-  &nbsp;&nbsp;&nbsp;&nbsp;   <a href="../uniform_details.php" style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Uniform</b></a>    
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="./student/" style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Student</b></a> 
+  &nbsp;&nbsp;&nbsp;&nbsp;  <a href="./faculity_details.php"><b>Faculty</b></a>   
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="./fee_structure.php" style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Fee Structure</b></a>  
+  &nbsp;&nbsp;&nbsp;&nbsp;   <a href="./uniform_details.php" style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Uniform</b></a>    
   &nbsp;&nbsp;&nbsp;&nbsp;  <a href="" style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Facility</b></a>   
-  &nbsp;&nbsp;&nbsp;&nbsp;   <a href="../about_us.php" style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>About Us</b></a>    
+  &nbsp;&nbsp;&nbsp;&nbsp;   <a href="./about_us.php" style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>About Us</b></a>    
 </div> 
 </div>
 ';
@@ -245,11 +245,11 @@ echo'<div class="row"><div class="col-sm-1"></div>
 else    echo'<div class="row">
   <div class="col-xs-1"></div>
   <div class="col-xs-11"><div class="link_change">    
-&nbsp;&nbsp; &nbsp;&nbsp; <a href="../index.php" class"active" style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Home</b></a> 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../student/" style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Student</b></a> 
-  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <a href="../faculity_details.php" style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Faculty</b></a>   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../fee_structure.php" style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Fee Structure</b></a>  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../uniform_details.php" style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Uniform</b></a>    
+&nbsp;&nbsp; &nbsp;&nbsp; <a href="./index.php" class"active" style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Home</b></a> 
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="./student/" style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Student</b></a> 
+  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; <a href="./faculity_details.php" style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Faculty</b></a>   
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="./fee_structure.php" style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Fee Structure</b></a>  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="./uniform_details.php" style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Uniform</b></a>    
   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  <a href="" style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Facility</b></a>    
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="" style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b><span style="color:darkred;" class="glyphicon glyphicon-earphone"></span>Call Now +919628673350</b></a>     
 </div> 
