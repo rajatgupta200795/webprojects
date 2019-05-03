@@ -217,7 +217,7 @@ The Best English Medium School </div>
 
 <marquee style="font-family:\'Helvetica Neue\',Helvetica,Arial,sans-serif; color:white; font-size:17px; margin-top:15px;">'.$wish.' '.strtoupper("Welcome To MAHAVEER CONVENT SCHOOL -  One And Only The Best English Medium Convent Academy . For Any Inquiry call Us ").'<span class="glyphicon glyphicon-earphone"></span> +919628673350 . You Can Mail Us On <a href="https://www.gmail.com"   style="color:white;">Akray1607@gmail.com</a></marquee>';
 
-if(!isMobileDevice())echo'<div style="position:absolute; top:10px; left:10px;"><img height="105" width="110" style="padding-left:2px; padding-bottom:2px;  padding-top:2px; padding-right:2px; background-color:black;" src="../img/baby_img.jpg"></div>';
+if(!isMobileDevice())echo'<!--<div style="position:absolute; top:10px; left:10px;"><img height="105" width="110" style="padding-left:2px; padding-bottom:2px;  padding-top:2px; padding-right:2px; background-color:black;" src="../img/baby_img.jpg"></div>-->';
 
 echo'</div>
 ';
