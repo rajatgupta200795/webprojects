@@ -1,6 +1,6 @@
 <?php  
  
-$con= new mysqli('localhost','root','','bharatbazar') or die("Could not connect to mysql".mysqli_error($con));
+$con= new mysqli('localhost','root','Rajat@20071995','bharatbazar') or die("Could not connect to mysql".mysqli_error($con));
 $key = $_POST["query"];
 $output = '';  
 $arr_id = array();
