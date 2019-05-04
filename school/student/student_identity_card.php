@@ -29,8 +29,8 @@ $laddress = $row['laddress'];
 $student_photo = $row['student_photo'];
 $gender = $row['gender'];
 if($student_photo==""){
-if($gender=="male") $student_photo="http://mcskkt.com/img/default_male.png";
-else $student_photo="http://mcskkt.com/img/default_female.png";
+if($gender=="male") $student_photo="http://devopsrider.com/img/default_male.png";
+else $student_photo="http://devopsrider.com/img/default_female.png";
 }
 
 }
@@ -64,8 +64,8 @@ echo'
 <div class="col-sm-8">
     <div style="text-align:left; font-size:21px; color:#041835; font-family:sans; padding-top:2px;">Mahaveer Convent School</div>
 
-<div style="text-align:left; font-size:9px; color:white; font-family:; padding-top:-2px;">Kubersthan Road, Kathkuiyan Bazar, Kushinagar-274303</div>
-<div style="text-align:center; font-size:9px; color:white; font-family:; padding-top:-2px;">Phone +919628673350 and Visit www.mcskkt.com</div>
+<div style="text-align:left; font-size:9px; color:white; font-family:; padding-top:-2px;">Govind Nagar,Kanpur,208006</div>
+<div style="text-align:center; font-size:9px; color:white; font-family:; padding-top:-2px;">Phone +919648673350 and Visit www.devopsrider.com</div>
 </div>
 </div>
 </div>
@@ -105,7 +105,7 @@ Class : </br>
 <div style="height:59px; width:99.8%; background-color:#FF6600; border:2px solid #FF6600; border-bottom-right-radius:7px; border-bottom-left-radius:7px; margin-top:4px;">
 <div class="row">
 <div class="col-sm-5">
-<div style="padding:7px; font-size:10px; color: white; font-family:; text-align:left;">'.ucwords($laddress).', Kushinagar, U.P.</div>
+<div style="padding:7px; font-size:10px; color: white; font-family:; text-align:left;">'.ucwords($laddress).', Kanpur, U.P.</div>
 </div>
 
 <div class="col-sm-3">
@@ -114,7 +114,7 @@ Class : </br>
 
 <div class="col-sm-4">
 <div style="border:35px; background-color:#FF6600; border-top-right-radius:38px;border-top-left-radius:70px; height:75px; width:140px; position:absolute; margin-left:-28px; margin-top:-39px;">
-<img src="http://mcskkt.com/img/prinicipal-sign.jpg" style="height:40px; width:40px; margin-top:17px;">
+<img src="http://devopsrider.com/img/prinicipal-sign.jpg" style="height:40px; width:40px; margin-top:17px;">
 </div>
 
 <span style="color:black; font-size:12px; position:absolute; margin-left:-30px; margin-top:16px; font-family:verdana;">Principal</span>
