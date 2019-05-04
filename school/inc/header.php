@@ -205,7 +205,7 @@ a:link
 <nav class="navbar navbar-default">
   <div class="container">
     <div class="navbar-header">
-      <a class="navbar-brand" href="http://www.devopsrider.com, style= "font-size: 30px; font- color : white; margin-top : 10px; "><b>Home</b></a>
+      <a class="navbar-brand" href="http://www.devopsrider.com, style= "font-size: 40px; font- color : black; margin-top : 20px; "><b>Home</b></a>
     </div>
 <?php if(1==1){
 //echo'<div style="width:105px; background-color:#f0f0f0; height:700px; position:fixed;"></div>';
