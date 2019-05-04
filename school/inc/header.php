@@ -202,7 +202,7 @@ a:link
   js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-<a class="navbar-brand" href="http://www.devopsrider.com/" style="font-size: 30px; font -color: black; "> Home</a>
+<a class="navbar-brand" href="http://www.devopsrider.com/" style="font-size: 30px; font -color: white; "> <b>Home</b></a>
 <?php if(1==1){
 //echo'<div style="width:105px; background-color:#f0f0f0; height:700px; position:fixed;"></div>';
 //echo'<div class="container">';
