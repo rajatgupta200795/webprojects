@@ -46,7 +46,7 @@ if($send){
 $email = @$_POST['email'];
 $pswd = @$_POST['pswd'];
 
-  if($email=='admin@gmail.com' && $pswd == '111111'){
+  if($email=='admin' && $pswd == '111111'){
   	setcookie("admin_login", md5($email));
   header("location:admin-home.php?login_successfully");
 }else{
