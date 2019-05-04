@@ -64,7 +64,7 @@ echo'
 <div class="col-sm-9">
     <div style="text-align:left; font-size:21px; color:#041835; font-family:sans; padding-top:2px;">Mahaveer Convent School</div>
 
-<div style="text-align:left; font-size:9px; color:black; font-family:; padding-top:-2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Govind Nagar,Kanpur,208006</div>
+<div style="text-align:left; font-size:9px; color:black; font-family:; padding-top:-2px;">Govind Nagar,Kanpur,208006</div>
 <div style="text-align:left; font-size:9px; color:black; font-family:; padding-top:-2px;">Phone +919648673350 and Visit www.devopsrider.com</div>
 </div>
 </div>
