@@ -82,8 +82,8 @@ $laddress = $row['laddress'];
 $student_photo = $row['student_photo'];
 $gender = $row['gender'];
 if($student_photo==""){
-if($gender=="male") $student_photo="http://mcskkt.com/img/default_male.png";
-else $student_photo="http://mcskkt.com/img/default_female.png";
+if($gender=="male") $student_photo="http://www.devopsrider.com/img/default_male.png";
+else $student_photo="http://www.devopsrider.com/img/default_female.png";
 }
 
 if(!$my_fee_status){
