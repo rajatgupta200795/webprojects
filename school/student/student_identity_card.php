@@ -61,7 +61,7 @@ echo'
 </div>
 </div>
 
-<div class="col-sm-8">
+<div class="col-sm-6">
     <div style="text-align:left; font-size:21px; color:#041835; font-family:sans; padding-top:2px;">Mahaveer Convent School</div>
 
 <div style="text-align:left; font-size:9px; color:black; font-family:; padding-top:-2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Govind Nagar,Kanpur,208006</div>
