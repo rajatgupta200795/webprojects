@@ -95,7 +95,7 @@ echo'
 
 <div class="row" style="font-size:15px;"><div class="col-sm-1"><span style="font-size:50px; color: #5814c5;" class="glyphicon glyphicon-book"></span>
 </div>
-<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/school/index.php">School Website</a></span>
+<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/school/">School Website</a></span>
 </br>
 A school is an educational institution designed to provide learning spaces </br> and learning environments for the teaching of students under the direction of teachers. 
 </div>
@@ -108,7 +108,7 @@ echo'
 <div class="container-fluid">
 <div class="row" style="font-size:15px;"><div class="col-sm-1"><span style="font-size:50px; color: #b7a133;" class="glyphicon glyphicon-shopping-cart"></span>
 </div>
-<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/homeecart/index.php">Business to Business Dropship Model</a></span>
+<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/homeecart/">Business to Business Dropship Model</a></span>
 </br>
 Dropshipping is a retail fulfillment method where a store doesn\'t keep the products in stock. Instead, when a store sells a product, it purchases </br>the item from a third party and has it shipped directly to the customer. As a result, the merchant never sees or handles the product.
 </div>
