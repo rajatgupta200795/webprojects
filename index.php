@@ -63,7 +63,7 @@ echo'
 <div class="container-fluid">
 <div class="row" style="font-size:15px;"><div class="col-sm-1"><span style="font-size:40px; color:#128ea2;" class="glyphicon glyphicon-fullscreen"></span>
 </div>
-<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="./my-wishes/">Create Your Digital Wishes 
+<div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/my-wishes/">Create Your Digital Wishes 
 For Your Friends</a></span>
 </br>
 Make your friends\' birthday, festival, marriage special by sending him your digital birthday wishes.
