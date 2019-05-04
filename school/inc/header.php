@@ -202,7 +202,9 @@ a:link
   js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-<a class="navbar-brand" href="http://www.devopsrider.com/" style="font-size: 30px; color: white; "> <b>Home</b></a>
+<a class="navbar-brand" href="http://www.devopsrider.com/" style="font-size: 30px; color: white; padding-top:17px "> <b> Home </b></a>
+
+
 <?php if(1==1){
 //echo'<div style="width:105px; background-color:#f0f0f0; height:700px; position:fixed;"></div>';
 //echo'<div class="container">';
@@ -210,12 +212,12 @@ a:link
 
    
  echo'   <div style="padding-top:17px; padding-bottom:0px; background-color:#2C5C77;" ><div style="text-align:center; font-family: \'Roboto Slab\',palatino,serif; top:16px; text-shadow:2px 0 0 black, -2px 0 0 black, 0 2px 0 black,0 -2px 0 black,1px 1px black, -1px -1px 0 black , 1px -1px 0 black , -1px 1px 0 black; color:white; font-size:40px;">MAHAVEER CONVENT SCHOOL </div> 
-<div style="text-align:center;color:white; font-family:cursive;">Shri Ram Chauk ,Kubersthan Road Kathkuiyan Bazar - 274303</br>
+<div style="text-align:center;color:white; font-family:cursive;"> H-Block,Govind Nagar,Kanpur, Uttar Pradesh 208006</br>
 The Best English Medium School </div>
     
 
 
-<marquee style="font-family:\'Helvetica Neue\',Helvetica,Arial,sans-serif; color:white; font-size:17px; margin-top:15px;">'.$wish.' '.strtoupper("Welcome To MAHAVEER CONVENT SCHOOL -  One And Only The Best English Medium Convent Academy . For Any Inquiry call Us ").'<span class="glyphicon glyphicon-earphone"></span> +919628673350 . You Can Mail Us On <a href="https://www.gmail.com"   style="color:white;">Akray1607@gmail.com</a></marquee>';
+<marquee style="font-family:\'Helvetica Neue\',Helvetica,Arial,sans-serif; color:white; font-size:17px; margin-top:15px;">'.$wish.' '.strtoupper("Welcome To MAHAVEER CONVENT SCHOOL -  One And Only The Best English Medium Convent Academy . For Any Inquiry call Us ").'<span class="glyphicon glyphicon-earphone"></span> +919648673350 . You Can Mail Us On <a href="https://www.gmail.com"   style="color:white;">Akray1607@gmail.com</a></marquee>';
 
 if(!isMobileDevice())echo'<!--<div style="position:absolute; top:10px; left:10px;"><img height="105" width="110" style="padding-left:2px; padding-bottom:2px;  padding-top:2px; padding-right:2px; background-color:black;" src="../img/baby_img.jpg"></div>-->';
 
