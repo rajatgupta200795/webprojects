@@ -55,13 +55,13 @@ echo'
 <div style="height:60px; width:100%; background-color:#FF6600; border:2px solid #FF6600; border-top-right-radius:7px; border-top-left-radius:7px;">
 <div class="row">
 
-<div class="col-sm-4"></br></br>
+<div class="col-sm-3"></br></br>
 <div style="border:45px; background-color:#FF6600; border-bottom-right-radius:90px;border-bottom-left-radius:70px; height:90px; width:200px; position:absolute; margin-left:-2px;">
 <div style="position:absolute; margin-left:30px; font-size:25px; margin-top:-20px; font-family:cursive; color:white;"></div>
 </div>
 </div>
 
-<div class="col-sm-6">
+<div class="col-sm-9">
     <div style="text-align:left; font-size:21px; color:#041835; font-family:sans; padding-top:2px;">Mahaveer Convent School</div>
 
 <div style="text-align:left; font-size:9px; color:black; font-family:; padding-top:-2px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Govind Nagar,Kanpur,208006</div>
