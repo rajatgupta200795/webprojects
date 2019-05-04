@@ -202,7 +202,7 @@ a:link
   js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-<a class="navbar-brand" href="http://www.devopsrider.com/" style="font-size: 30px; color: white; padding-top:17px "> <b> Home </b></a>
+<a class="navbar-brand" href="http://www.devopsrider.com/" style="font-size: 30px; color: white; padding-top:37px "> <b> Home </b></a>
 
 
 <?php if(1==1){
@@ -253,7 +253,7 @@ else    echo'<div class="row">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="./fee_structure.php" style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Fee Structure</b></a>  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="./uniform_details.php" style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Uniform</b></a>    
   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  <a href="" style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b>Facility</b></a>    
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="" style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b><span style="color:darkred;" class="glyphicon glyphicon-earphone"></span>Call Now +919628673350</b></a>     
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a href="" style="font-family: \'Helvetica Neue\',Helvetica,Arial,sans-serif;"><b><span style="color:darkred;" class="glyphicon glyphicon-earphone"></span>Call Now +919648673350</b></a>     
 </div> 
 </div>';
 ?>
