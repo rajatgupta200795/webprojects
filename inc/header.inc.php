@@ -217,9 +217,9 @@ echo'</div>
 
 
 echo'</div>
-<div class="col-sm-2"  > <a href="http://www.devopsrider.com/lovegame/index.php/"><div style="margin-top:10px; font-size:17px;font-weight:bold;"> Game</div></a></div>
+<!--<div class="col-sm-2"  > <a href="http://www.devopsrider.com/lovegame/index.php/"><div style="margin-top:10px; font-size:17px;font-weight:bold;"> Game</div></a></div>
 <div class="col-sm-2"  > <a href="/current-indian-polity/general-science.php"><div style="margin-top:10px; font-size:17px;font-weight:bold; ">Current Indian Polity</div></a></div>
-<div class="col-sm-3" style="margin-top:0px; font-size:10px;"><a href="https://www.facebook.com/Technical-Friend-741984279311981/"> Like Our Facebook Page</a> <div class="fb-like" data-href="https://www.facebook.com/Technical-Friend-741984279311981/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div></div>
+<div class="col-sm-3" style="margin-top:0px; font-size:10px;"><a href="https://www.facebook.com/Technical-Friend-741984279311981/"> Like Our Facebook Page</a> <div class="fb-like" data-href="https://www.facebook.com/Technical-Friend-741984279311981/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div></div>-->
 </div>';
 echo'
 ';
