@@ -4,13 +4,13 @@ include"connect.php";
 
 
 $query=$con->query("SELECT * FROM users WHERE  1=1");
-	$users_count=$query->num_rows;
+    $users_count=$query->num_rows;
 
 $query=$con->query("SELECT * FROM sell_offer WHERE  1=1");
-	$sell_offer_count=$query->num_rows;
+    $sell_offer_count=$query->num_rows;
 
 $query=$con->query("SELECT * FROM buy_req WHERE  1=1");
-	$buy_req_count=$query->num_rows;
+    $buy_req_count=$query->num_rows;
 
 
 if(isset($_GET['title']))
@@ -45,11 +45,11 @@ function isMobileDevice(){
 <!DOCTYPE html>
 <html>
 <head>
-	<title><?php if(!isset($_GET['title']))echo"EwishesOnline - Full Your Wish Online"; else echo $_GET['title']; ?></title>
-	<meta name="viewport" content="width=1100">
+    <title><?php if(!isset($_GET['title']))echo"EwishesOnline - Full Your Wish Online"; else echo $_GET['title']; ?></title>
+    <meta name="viewport" content="width=1100">
 
 
-	<link rel="shortcut icon" href="http:/www.devopsrider.com/title.png" type="image/png"/>
+    <link rel="shortcut icon" href="http:/www.devopsrider.com/title.png" type="image/png"/>
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
@@ -59,20 +59,20 @@ function isMobileDevice(){
            <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>  
 
 <style type="text/css">
-	
+    
 a{
-	color: blue;
-	text-decoration: none;
+    color: blue;
+    text-decoration: none;
 }
 
 a:hover{
-	color: #ce241b;
-	text-decoration: none;
+    color: #ce241b;
+    text-decoration: none;
 }
 
 .menu-link{
-	padding-right: 25px; padding-left: 25px; padding-bottom: 17px; padding-top: 17px;
-	border-right: 1px solid lightgrey; 
+    padding-right: 25px; padding-left: 25px; padding-bottom: 17px; padding-top: 17px;
+    border-right: 1px solid lightgrey; 
 }
 
  
@@ -89,18 +89,18 @@ a:hover{
                 z-index: 1;
                 padding-bottom: 15px;
                 padding-top: 5px;
-           	    font-family: arial;
-           	    font-weight: bold;
+                font-family: arial;
+                font-weight: bold;
            }  
            #productList a:hover{
-           	background-color: green;
-           	color: black;
-           	font-family: arial;
+            background-color: green;
+            color: black;
+            font-family: arial;
            }
            li{  
                 padding-left:10px; 
                 margin-top :10px;
-            	color: black;
+                color: black;
            }  
        
        
@@ -130,7 +130,7 @@ a:hover{
 ">
 <div class="row" id="#top">
 <div class="col-sm-2" style="padding: 5px; margin-left:20px; font-family: 'Arimo', sans-serif; font-size: 18px;">
-    <a href="http://www.http://devopsrider.com/" style="font-size: 22px; font-family: 'Roboto Condensed', sans-serif;"> <b style="color:white">Ewishes</b><b style="color:orange">Online</b></a>
+    <a href="http:/www.devopsrider.com/" style="font-size: 22px; font-family: 'Roboto Condensed', sans-serif;"> <b style="color:white">Ewishes</b><b style="color:orange">Online</b></a>
     </div>
 <div class="col-sm-6" onclick="border:10px solid grey;">
 <form action="search-results.php" method="get">
