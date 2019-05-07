@@ -126,7 +126,8 @@ echo'
 <div class="col-sm-10"><span style="font-size:25px; font-family:impact;"><a style="color:#635656;" href="/ewishes/">Ewishes - Online Marketplace</a></span>
 </br>
 An online marketplace is a type of e-commerce site where product or service </br>information is provided by multiple third parties,</br> whereas transactions are processed by the marketplace operator.
-//In today\'s busy lifestyle, pure and genuine items have become out of reach</br> and shopkeepers are evading taxes  and becoming rich.</br>At Bharat Bazaar we provide branded articles for daily use house hold items,</br> Kitchen Accessories, Grocery, Apparel all under one roof with bill.
+<!--In today\'s busy lifestyle, pure and genuine items have become out of reach</br> and shopkeepers are evading taxes  and becoming rich.</br>At Bharat Bazaar we provide branded articles for daily use house hold items,</br> Kitchen Accessories, Grocery, Apparel all under one roof with bill.
+-->
 </div>
 </div>
 </div>
