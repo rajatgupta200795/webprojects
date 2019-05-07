@@ -176,7 +176,7 @@ $discount = round(($mrp-$price)*100/$mrp);
 $output .='
 <div class="row" style="line-height:25px;">
 <div class="col-sm-3">
-<img src="../item-image/'.$img_url.'" style="max-width:100%; height:190px;">
+<img src="item-image/'.$img_url.'" style="max-width:100%; height:190px;">
 </div>
 <div class="col-sm-9">
 <a href="item-details.php?item_id='.$item_id.'&title='.$title.'" style="color: #0066c0; font-size:18px; font-family:Arial,sans-serif">'.$title.'</a></br>
