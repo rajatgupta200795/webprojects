@@ -49,7 +49,7 @@ function isMobileDevice(){
     <meta name="viewport" content="width=1100">
 
 
-    <link rel="shortcut icon" href="http:/www.devopsrider.com/title.png" type="image/png"/>
+    <link rel="shortcut icon" href="http://www.devopsrider.com/title.png" type="image/png"/>
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
@@ -130,7 +130,7 @@ a:hover{
 ">
 <div class="row" id="#top">
 <div class="col-sm-2" style="padding: 5px; margin-left:20px; font-family: 'Arimo', sans-serif; font-size: 18px;">
-    <a href="http:/www.devopsrider.com/" style="font-size: 22px; font-family: 'Roboto Condensed', sans-serif;"> <b style="color:white">Ewishes</b><b style="color:orange">Online</b></a>
+    <a href="http://www.devopsrider.com/" style="font-size: 22px; font-family: 'Roboto Condensed', sans-serif;"> <b style="color:white">Ewishes</b><b style="color:orange">Online</b></a>
     </div>
 <div class="col-sm-6" onclick="border:10px solid grey;">
 <form action="search-results.php" method="get">
@@ -193,7 +193,7 @@ $('#q').bind('input', function(){
            if(query != '')  
            {  
                 $.ajax({  
-                     url:"/inc/search_query.php",  
+                     url:"inc/search_query.php",  
                      method:"POST",  
                      data:{query:query},  
                      success:function(data)  
@@ -204,7 +204,7 @@ $('#q').bind('input', function(){
                 });  
            }else{  
                 $.ajax({  
-                     url:"./inc/search_query.php",  
+                     url:"inc/search_query.php",  
                      method:"POST",  
                      data:{query:query},  
                      success:function(data)  
