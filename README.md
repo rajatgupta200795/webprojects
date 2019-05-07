@@ -13,5 +13,3 @@ There are multiple project
 4. A Lovegame - Love Calculator
 5. A School Website
 
-If you wanna see how it looks like 
-visit www.devopsrider.com
