@@ -1,0 +1,100 @@
+[18-Feb-2018 11:48:39 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewisheso/public_html/admin/inc/header.php on line 2
+[18-Feb-2018 11:48:39 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ewisheso/public_html/admin/inc/header.php on line 4
+[18-Feb-2018 11:48:39 UTC] PHP Notice:  Trying to get property of non-object in /home/ewisheso/public_html/admin/inc/header.php on line 5
+[18-Feb-2018 11:48:39 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ewisheso/public_html/admin/inc/header.php on line 7
+[18-Feb-2018 11:48:39 UTC] PHP Notice:  Trying to get property of non-object in /home/ewisheso/public_html/admin/inc/header.php on line 8
+[18-Feb-2018 11:48:39 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ewisheso/public_html/admin/inc/header.php on line 10
+[18-Feb-2018 11:48:39 UTC] PHP Notice:  Trying to get property of non-object in /home/ewisheso/public_html/admin/inc/header.php on line 11
+[18-Feb-2018 11:48:41 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewisheso/public_html/admin/inc/header.php on line 2
+[18-Feb-2018 11:48:41 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ewisheso/public_html/admin/inc/header.php on line 4
+[18-Feb-2018 11:48:41 UTC] PHP Notice:  Trying to get property of non-object in /home/ewisheso/public_html/admin/inc/header.php on line 5
+[18-Feb-2018 11:48:41 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ewisheso/public_html/admin/inc/header.php on line 7
+[18-Feb-2018 11:48:41 UTC] PHP Notice:  Trying to get property of non-object in /home/ewisheso/public_html/admin/inc/header.php on line 8
+[18-Feb-2018 11:48:41 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ewisheso/public_html/admin/inc/header.php on line 10
+[18-Feb-2018 11:48:41 UTC] PHP Notice:  Trying to get property of non-object in /home/ewisheso/public_html/admin/inc/header.php on line 11
+[18-Feb-2018 11:48:41 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ewisheso/public_html/admin/add-item.php on line 15
+[18-Feb-2018 11:48:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/ewisheso/public_html/admin/add-item.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ewisheso/public_html/admin/add-item.php on line 16
+[18-Feb-2018 11:49:13 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewisheso/public_html/admin/inc/header.php on line 2
+[18-Feb-2018 11:49:13 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ewisheso/public_html/admin/inc/header.php on line 4
+[18-Feb-2018 11:49:13 UTC] PHP Notice:  Trying to get property of non-object in /home/ewisheso/public_html/admin/inc/header.php on line 5
+[18-Feb-2018 11:49:13 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ewisheso/public_html/admin/inc/header.php on line 7
+[18-Feb-2018 11:49:13 UTC] PHP Notice:  Trying to get property of non-object in /home/ewisheso/public_html/admin/inc/header.php on line 8
+[18-Feb-2018 11:49:13 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ewisheso/public_html/admin/inc/header.php on line 10
+[18-Feb-2018 11:49:13 UTC] PHP Notice:  Trying to get property of non-object in /home/ewisheso/public_html/admin/inc/header.php on line 11
+[18-Feb-2018 11:49:13 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ewisheso/public_html/admin/add-item.php on line 15
+[18-Feb-2018 11:49:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/ewisheso/public_html/admin/add-item.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ewisheso/public_html/admin/add-item.php on line 16
+[18-Feb-2018 11:52:12 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewisheso/public_html/admin/inc/header.php on line 2
+[18-Feb-2018 11:52:12 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ewisheso/public_html/admin/inc/header.php on line 4
+[18-Feb-2018 11:52:12 UTC] PHP Notice:  Trying to get property of non-object in /home/ewisheso/public_html/admin/inc/header.php on line 5
+[18-Feb-2018 11:52:12 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ewisheso/public_html/admin/inc/header.php on line 7
+[18-Feb-2018 11:52:12 UTC] PHP Notice:  Trying to get property of non-object in /home/ewisheso/public_html/admin/inc/header.php on line 8
+[18-Feb-2018 11:52:12 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ewisheso/public_html/admin/inc/header.php on line 10
+[18-Feb-2018 11:52:12 UTC] PHP Notice:  Trying to get property of non-object in /home/ewisheso/public_html/admin/inc/header.php on line 11
+[18-Feb-2018 11:52:32 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewisheso/public_html/admin/inc/header.php on line 2
+[18-Feb-2018 11:52:32 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ewisheso/public_html/admin/inc/header.php on line 4
+[18-Feb-2018 11:52:32 UTC] PHP Notice:  Trying to get property of non-object in /home/ewisheso/public_html/admin/inc/header.php on line 5
+[18-Feb-2018 11:52:32 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ewisheso/public_html/admin/inc/header.php on line 7
+[18-Feb-2018 11:52:32 UTC] PHP Notice:  Trying to get property of non-object in /home/ewisheso/public_html/admin/inc/header.php on line 8
+[18-Feb-2018 11:52:32 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ewisheso/public_html/admin/inc/header.php on line 10
+[18-Feb-2018 11:52:32 UTC] PHP Notice:  Trying to get property of non-object in /home/ewisheso/public_html/admin/inc/header.php on line 11
+[18-Feb-2018 11:52:32 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ewisheso/public_html/admin/add-item.php on line 17
+[18-Feb-2018 11:52:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/ewisheso/public_html/admin/add-item.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ewisheso/public_html/admin/add-item.php on line 18
+[18-Feb-2018 11:53:34 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewisheso/public_html/admin/inc/header.php on line 2
+[18-Feb-2018 11:53:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ewisheso/public_html/admin/inc/header.php on line 4
+[18-Feb-2018 11:53:34 UTC] PHP Notice:  Trying to get property of non-object in /home/ewisheso/public_html/admin/inc/header.php on line 5
+[18-Feb-2018 11:53:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ewisheso/public_html/admin/inc/header.php on line 7
+[18-Feb-2018 11:53:34 UTC] PHP Notice:  Trying to get property of non-object in /home/ewisheso/public_html/admin/inc/header.php on line 8
+[18-Feb-2018 11:53:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ewisheso/public_html/admin/inc/header.php on line 10
+[18-Feb-2018 11:53:34 UTC] PHP Notice:  Trying to get property of non-object in /home/ewisheso/public_html/admin/inc/header.php on line 11
+[18-Feb-2018 11:53:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ewisheso/public_html/admin/add-item.php on line 15
+[18-Feb-2018 11:53:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/ewisheso/public_html/admin/add-item.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ewisheso/public_html/admin/add-item.php on line 16
+[18-Feb-2018 11:53:34 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewisheso/public_html/admin/inc/header.php on line 2
+[18-Feb-2018 11:53:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ewisheso/public_html/admin/inc/header.php on line 4
+[18-Feb-2018 11:53:34 UTC] PHP Notice:  Trying to get property of non-object in /home/ewisheso/public_html/admin/inc/header.php on line 5
+[18-Feb-2018 11:53:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ewisheso/public_html/admin/inc/header.php on line 7
+[18-Feb-2018 11:53:34 UTC] PHP Notice:  Trying to get property of non-object in /home/ewisheso/public_html/admin/inc/header.php on line 8
+[18-Feb-2018 11:53:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ewisheso/public_html/admin/inc/header.php on line 10
+[18-Feb-2018 11:53:34 UTC] PHP Notice:  Trying to get property of non-object in /home/ewisheso/public_html/admin/inc/header.php on line 11
+[18-Feb-2018 11:53:34 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/ewisheso/public_html/admin/add-item.php on line 15
+[18-Feb-2018 11:53:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/ewisheso/public_html/admin/add-item.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ewisheso/public_html/admin/add-item.php on line 16
+[19-Feb-2018 11:21:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ewisheso/public_html/admin/update-sub-category.php:27) in /home/ewisheso/public_html/admin/update-sub-category.php on line 40
+[19-Feb-2018 11:21:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ewisheso/public_html/admin/update-sub-category.php:27) in /home/ewisheso/public_html/admin/update-sub-category.php on line 40
+[19-Feb-2018 11:38:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ewisheso/public_html/admin/update-sub-category.php:27) in /home/ewisheso/public_html/admin/update-sub-category.php on line 40
+[19-Feb-2018 15:57:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ewisheso/public_html/admin/update-sub-category.php:27) in /home/ewisheso/public_html/admin/update-sub-category.php on line 40
+[19-Feb-2018 16:14:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ewisheso/public_html/admin/update-sub-category.php:27) in /home/ewisheso/public_html/admin/update-sub-category.php on line 40
+[19-Feb-2018 16:21:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ewisheso/public_html/admin/update-sub-category.php:27) in /home/ewisheso/public_html/admin/update-sub-category.php on line 40
+[19-Feb-2018 16:27:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ewisheso/public_html/admin/update-sub-category.php:27) in /home/ewisheso/public_html/admin/update-sub-category.php on line 40
+[19-Feb-2018 17:07:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ewisheso/public_html/admin/update-sub-category.php:27) in /home/ewisheso/public_html/admin/update-sub-category.php on line 40
+[19-Feb-2018 17:58:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ewisheso/public_html/admin/update-category.php:27) in /home/ewisheso/public_html/admin/update-category.php on line 40
+[19-Feb-2018 17:58:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ewisheso/public_html/admin/update-sub-category.php:27) in /home/ewisheso/public_html/admin/update-sub-category.php on line 40
+[19-Feb-2018 18:18:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ewisheso/public_html/admin/update-sub-category.php:27) in /home/ewisheso/public_html/admin/update-sub-category.php on line 40
+[19-Feb-2018 18:43:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ewisheso/public_html/admin/update-sub-category.php:27) in /home/ewisheso/public_html/admin/update-sub-category.php on line 40
+[19-Feb-2018 18:49:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ewisheso/public_html/admin/update-sub-category.php:27) in /home/ewisheso/public_html/admin/update-sub-category.php on line 40
+[19-Feb-2018 19:11:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ewisheso/public_html/admin/update-sub-category.php:27) in /home/ewisheso/public_html/admin/update-sub-category.php on line 40
+[19-Feb-2018 19:27:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ewisheso/public_html/admin/update-sub-category.php:27) in /home/ewisheso/public_html/admin/update-sub-category.php on line 40
+[19-Feb-2018 20:13:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ewisheso/public_html/admin/update-sub-category.php:27) in /home/ewisheso/public_html/admin/update-sub-category.php on line 40
+[19-Feb-2018 20:27:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ewisheso/public_html/admin/update-sub-category.php:27) in /home/ewisheso/public_html/admin/update-sub-category.php on line 40
+[19-Feb-2018 20:35:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ewisheso/public_html/admin/update-sub-category.php:27) in /home/ewisheso/public_html/admin/update-sub-category.php on line 40
+[20-Feb-2018 09:49:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ewisheso/public_html/admin/update-sub-category.php:27) in /home/ewisheso/public_html/admin/update-sub-category.php on line 40
+[20-Feb-2018 10:06:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ewisheso/public_html/admin/update-sub-category.php:27) in /home/ewisheso/public_html/admin/update-sub-category.php on line 40
+[20-Feb-2018 10:32:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ewisheso/public_html/admin/update-sub-category.php:27) in /home/ewisheso/public_html/admin/update-sub-category.php on line 40
+[20-Feb-2018 12:08:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ewisheso/public_html/admin/update-sub-category.php:27) in /home/ewisheso/public_html/admin/update-sub-category.php on line 40
+[20-Feb-2018 12:10:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ewisheso/public_html/admin/update-sub-category.php:27) in /home/ewisheso/public_html/admin/update-sub-category.php on line 40
+[20-Feb-2018 13:09:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ewisheso/public_html/admin/update-sub-category.php:27) in /home/ewisheso/public_html/admin/update-sub-category.php on line 40
+[20-Feb-2018 14:01:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ewisheso/public_html/admin/update-sub-category.php:27) in /home/ewisheso/public_html/admin/update-sub-category.php on line 40
+[20-Feb-2018 14:13:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ewisheso/public_html/admin/update-sub-category.php:27) in /home/ewisheso/public_html/admin/update-sub-category.php on line 40
