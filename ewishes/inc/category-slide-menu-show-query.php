@@ -8,7 +8,7 @@ if(isMobileDevice())$limit_query_part=' 4'; else $limit_query_part=' 5';
 $query="SELECT * FROM item WHERE ".$c_id_query_part." order by rand() limit ".$limit_query_part;
 $query=$con->query($query);
 while($row = $query->fetch_assoc()){
-$img_url = "item-image/".$row['img_url'];
+$img_url = "item-image/".preg_replace("([|])", "_", $row['img_url']);
 $title = substr($row['title'],0,30).'...';
 $mrp = $row['mrp'];
 $c_id = $row['c_id'];
