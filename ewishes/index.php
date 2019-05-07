@@ -1,6 +1,6 @@
 <?php include"inc/header.php"; ?>
 
-<a href="http://www.ewishes.online/search-results.php?q=a"><img style=" height: 300px; width: 100%; border: 1px solid grey;" src="img/poster1.png">
+<a href="/search-results.php?q=a"><img style=" height: 300px; width: 100%; border: 1px solid grey;" src="img/poster1.png">
 </a>
 
 <?php include"inc/category-menu.php"; ?>
