@@ -138,7 +138,7 @@ a:hover{
 <span id="productList"></span>
 </form>
 </div>
-<!--#4fbb90-->  *111*4*1# 1900
+<!--#4fbb90-->  
 
 <div class="col-sm-1" style="color:white;font-size:18px; font-family:arial; padding:3px;"><span style="color:orange; font-size:35px;" 
 class="glyphicon glyphicon-shopping-cart"><b style="color:white;font-size:17px; 
