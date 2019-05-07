@@ -117,7 +117,7 @@ Dropshipping is a retail fulfillment method where a store doesn\'t keep the prod
 ';
 
 
-
+<!--
 echo'
 </br>
 <div class="container-fluid">
@@ -129,7 +129,7 @@ In today\'s busy lifestyle, pure and genuine items have become out of reach</br>
 </div>
 </div>
 </div>
-';
+'; -->
 
 
 
