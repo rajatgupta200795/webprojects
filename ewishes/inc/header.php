@@ -130,7 +130,7 @@ a:hover{
 ">
 <div class="row" id="#top">
 <div class="col-sm-2" style="padding: 5px; margin-left:20px; font-family: 'Arimo', sans-serif; font-size: 18px;">
-    <a href="http://www.ewishes.online" style="font-size: 22px; font-family: 'Roboto Condensed', sans-serif;"> <b style="color:white">Ewishes</b><b style="color:orange">Online</b></a>
+    <a href="http://www.http://devopsrider.com/" style="font-size: 22px; font-family: 'Roboto Condensed', sans-serif;"> <b style="color:white">Ewishes</b><b style="color:orange">Online</b></a>
     </div>
 <div class="col-sm-6" onclick="border:10px solid grey;">
 <form action="search-results.php" method="get">
