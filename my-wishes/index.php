@@ -1,16 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108473282-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-108473282-1');
-</script>
+   
 
     <title>Send free online wishes.</title>
         <meta name="description" content="Send online e-wishes to your friends, girlfriend, relative for free.">
@@ -119,7 +110,7 @@ It's free and limitless.
 
 </br></br>
 
-
+<!--
 <p style="font-size: 30px; font-family: 'Oswald', sans-serif, cursive; font-weight: bold; line-height: 30px;">Daily Wishes With Songs</p>
 <p class="container-fluid" style="font-family: 'PT Sans Caption', sans-serif; font-size: 18px; line-height: 30px; width: 98%;">
 Express your true love with a number of beautiful vocal songs and let her feel your feel in your way.</br></br>
@@ -131,7 +122,7 @@ It's free and limitless.
 
 </br>
 
-<!--
+
 <div id="wishSong" class="container-fluid" style="text-align:   ; color: #646262; font-family: 'Josefin Slab', serif; font-weight: bold; padding: 20px; padding-bottom: 60px; line-height: 30px;">
     
 <p style="font-size: 30px; color: black; text-align: center;">Impress Your Girlfriend </p>
