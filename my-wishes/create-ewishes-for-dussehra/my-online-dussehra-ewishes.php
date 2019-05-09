@@ -54,11 +54,11 @@ canvas {
     <div class="collapse navbar-collapse" id="myNavbar">
 
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="http://www.ewishes.online/">Home</a></li>
-        <li><a href="http://www.ewishes.online/#ewishes">Wishes</a></li>
-        <li><a href="http://www.ewishes.online/#wishSong">Songs</a></li>
-        <li><a href="http://www.ewishes.online/about-us.php">About</a></li>
-        <li><a href="http://www.ewishes.online/contact-us.php">Contact</a></li>
+        <li><a href="../ewishes/">Home</a></li>
+        <li><a href="../ewishes/#ewishes">Wishes</a></li>
+        <li><a href="../ewishes/#wishSong">Songs</a></li>
+        <li><a href="../ewishes/about-us.php">About</a></li>
+        <li><a href="../ewishes/contact-us.php">Contact</a></li>
       </ul>
     </div>
   </div>
