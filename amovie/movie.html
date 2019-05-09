@@ -108,6 +108,8 @@ function msg1(){
 	var t1 = setTimeout(msg2 , 2000)
 }
 
+	soundEffectFunction();
+
 function msg2(){
 	thndrCount++; 
 	document.getElementById("body").style.backgroundColor = 'white';
@@ -125,7 +127,6 @@ function msg2(){
 	var t1 = setTimeout(msg3 , 15)
 }
 
-soundEffectFunction();
 function soundEffectFunction(){
 	soundEffect = new Audio("sound/Perfect Thunder Storm-SoundBible.com-2056381765.mp3"); // buffers automatically when created
     soundEffect.play();
