@@ -67,8 +67,8 @@ $laddress = $row['laddress'];
 $student_photo = $row['student_photo'];
 $gender = $row['gender'];
 if($student_photo==""){
-if($gender=="male") $student_photo="../img/default_male.png";
-else $student_photo="../img/default_female.png";
+if($gender=="male") $student_photo="../../img/default_male.png";
+else $student_photo="../../img/default_female.png";
 }
 
 }
@@ -152,7 +152,7 @@ Class : </br>
 
 <div class="col-sm-4">
 <div style="border:35px; background-color:#FF6600; border-top-right-radius:38px;border-top-left-radius:70px; height:75px; width:140px; position:absolute; margin-left:-28px; margin-top:-39px;">
-<img src="../img/prinicipal-sign.jpg" style="height:40px; width:40px; margin-top:17px;">
+<img src="../../img/prinicipal-sign.jpg" style="height:40px; width:40px; margin-top:17px;">
 </div>
 
 <span style="color:black; font-size:12px; position:absolute; margin-left:-30px; margin-top:16px; font-family:verdana;">Principal</span>
