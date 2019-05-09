@@ -8,9 +8,9 @@
 <meta name="viewport" content="width=400">
 
 
-<link rel="stylesheet" href="http://www.devopsrider.com/css/bootstrap.min.css">
+<link rel="stylesheet" href="../css/bootstrap.min.css">
 
-<link href="http://www.devopsrider.com/css/google_font_code.css?family=Josefin+Slab|Hind|Raleway|Poppins|Pangolin|Source+Sans+Pro|PT+Sans+Caption|Oswald|PT+Sans" rel="stylesheet">
+<link href="../css/google_font_code.css?family=Josefin+Slab|Hind|Raleway|Poppins|Pangolin|Source+Sans+Pro|PT+Sans+Caption|Oswald|PT+Sans" rel="stylesheet">
 
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
 
