@@ -2,7 +2,7 @@
 <?php
 echo'
 <h2>How To Forget Your Ex - A Broken Heart</h2>
-<img height="auto" width="100%" src="http://www.myxid.com/blog_img/breakup1.jpg"/>
+<img height="auto" width="100%" src="./blog_img/breakup1.jpg"/>
 <p><hr>
 If you ask 100 people how to forget your ex after a breakup when you still love him, you’ll get 100 different answers. These following ways to forget your ex are the tricks that will worked if you really want to forget your Ex(Him/her).
 </br></br><hr>
