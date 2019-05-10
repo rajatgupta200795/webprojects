@@ -158,7 +158,7 @@ $query = $con->query("SELECT * FROM item WHERE item_id = '$item_id' limit 5");
 $succes_count=$query->num_rows;
 if($succes_count>0)
 while ($row = $query->fetch_assoc()) {
-$img_url = "../item-image/".$row['img_url'];
+$img_url = "./item-image/".$row['img_url'];
 $title = substr($row['title'],0,30).'...';
 $mrp = $row['mrp'];
 $price = $row['price'];
