@@ -32,7 +32,7 @@ echo'
 <div class="col-sm-1"></div>
 <div class="col-sm-4">
 </br>
-<img src="../item-image/'.$img_url.'" style="width:100%; height:auto;">
+<img src="./item-image/'.$img_url.'" style="width:100%; height:auto;">
 </div>
 <div class="col-sm-6">
 <a href="" style="color:blue;">'.$brand.'</a>
